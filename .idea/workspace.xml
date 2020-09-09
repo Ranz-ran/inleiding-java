@@ -19,9 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="67526c09-8273-46e9-a0be-c82dfc6ae11f" name="Default Changelist" comment="Change text from &quot;Hallo test round!&quot; to &quot;Hallo test round 2!&quot;">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="67526c09-8273-46e9-a0be-c82dfc6ae11f" name="Default Changelist" comment="Change color form the background and the name">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -96,6 +94,10 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <list>
+      <item itemvalue="Applet.Atest2" />
+      <item itemvalue="Application.HalloRocDev" />
+    </list>
     <recent_temporary>
       <list>
         <item itemvalue="Applet.Atest2" />
@@ -111,7 +113,7 @@
       <option name="presentableId" value="Default" />
       <updated>1596867676053</updated>
       <workItem from="1599648097561" duration="4364000" />
-      <workItem from="1599653080904" duration="7604000" />
+      <workItem from="1599653080904" duration="8197000" />
     </task>
     <task id="LOCAL-00001" summary="Hallo test round">
       <created>1599648415559</created>
@@ -127,7 +129,14 @@
       <option name="project" value="LOCAL" />
       <updated>1599649085943</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Change color form the background and the name">
+      <created>1599673384115</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1599673384116</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -148,33 +157,34 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Hallo test round" />
     <MESSAGE value="Change text from &quot;Hallo test round!&quot; to &quot;Hallo test round 2!&quot;" />
-    <option name="LAST_COMMIT_MESSAGE" value="Change text from &quot;Hallo test round!&quot; to &quot;Hallo test round 2!&quot;" />
+    <MESSAGE value="Change color form the background and the name" />
+    <option name="LAST_COMMIT_MESSAGE" value="Change color form the background and the name" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="137" y="13" width="1092" height="715" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1599654215493">
+    <state x="137" y="13" width="1092" height="715" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1599673867540">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="137" y="13" width="1092" height="715" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728@0.0.1366.728" timestamp="1599654215493" />
+    <state x="137" y="13" width="1092" height="715" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728@0.0.1366.728" timestamp="1599673867540" />
     <state x="463" y="118" key="FileChooserDialogImpl" timestamp="1599670915038">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="463" y="118" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1599670915038" />
-    <state width="643" height="163" key="GridCell.Tab.0.bottom" timestamp="1599673231533">
+    <state width="661" height="223" key="GridCell.Tab.0.bottom" timestamp="1599673531132">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="643" height="163" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1599673231533" />
-    <state width="643" height="163" key="GridCell.Tab.0.center" timestamp="1599673231533">
+    <state width="661" height="223" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1599673531132" />
+    <state width="661" height="223" key="GridCell.Tab.0.center" timestamp="1599673531131">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="643" height="163" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1599673231533" />
-    <state width="643" height="163" key="GridCell.Tab.0.left" timestamp="1599673231532">
+    <state width="661" height="223" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1599673531131" />
+    <state width="661" height="223" key="GridCell.Tab.0.left" timestamp="1599673531130">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="643" height="163" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1599673231532" />
-    <state width="643" height="163" key="GridCell.Tab.0.right" timestamp="1599673231533">
+    <state width="661" height="223" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1599673531130" />
+    <state width="661" height="223" key="GridCell.Tab.0.right" timestamp="1599673531132">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="643" height="163" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1599673231533" />
+    <state width="661" height="223" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1599673531132" />
     <state x="426" y="66" key="RollbackChangesDialog" timestamp="1599672761982">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -183,9 +193,9 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="184" y="9" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1599653872910" />
-    <state x="275" y="96" key="Vcs.Push.Dialog.v2" timestamp="1599649108837">
+    <state x="275" y="96" key="Vcs.Push.Dialog.v2" timestamp="1599673389456">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="275" y="96" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1599649108837" />
+    <state x="275" y="96" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1599673389456" />
   </component>
 </project>
