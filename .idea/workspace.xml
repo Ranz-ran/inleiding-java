@@ -19,7 +19,10 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="67526c09-8273-46e9-a0be-c82dfc6ae11f" name="Default Changelist" comment="Change color form the background and the name">
+    <list default="true" id="67526c09-8273-46e9-a0be-c82dfc6ae11f" name="Default Changelist" comment="Opdracht 2.2">
+      <change afterPath="$PROJECT_DIR$/src/h02/vragen_htwee" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/h04/Four_point_one.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/h04/vragen_hdrie" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -60,9 +63,23 @@
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
-  <component name="RunManager" selected="Applet.Atest2">
+  <component name="RunManager" selected="Applet.Four_point_one">
     <configuration name="Atest2" type="Applet" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="h02.Atest2" />
+      <module name="inleiding-java" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Four_point_one" type="Applet" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="h04.Four_point_one" />
+      <module name="inleiding-java" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Naamw" type="Applet" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="h02.Naamw" />
       <module name="inleiding-java" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -97,9 +114,13 @@
     <list>
       <item itemvalue="Applet.Atest2" />
       <item itemvalue="Application.HalloRocDev" />
+      <item itemvalue="Applet.Naamw" />
+      <item itemvalue="Applet.Four_point_one" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Applet.Four_point_one" />
+        <item itemvalue="Applet.Naamw" />
         <item itemvalue="Applet.Atest2" />
       </list>
     </recent_temporary>
@@ -113,7 +134,7 @@
       <option name="presentableId" value="Default" />
       <updated>1596867676053</updated>
       <workItem from="1599648097561" duration="4364000" />
-      <workItem from="1599653080904" duration="8197000" />
+      <workItem from="1599653080904" duration="16628000" />
     </task>
     <task id="LOCAL-00001" summary="Hallo test round">
       <created>1599648415559</created>
@@ -136,7 +157,28 @@
       <option name="project" value="LOCAL" />
       <updated>1599673384116</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Change color form the background and the name">
+      <created>1599673953223</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1599673953224</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Change color form the background and the name">
+      <created>1599674041246</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1599674041246</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Opdracht 2.2">
+      <created>1599674625345</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1599674625345</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -158,33 +200,58 @@
     <MESSAGE value="Hallo test round" />
     <MESSAGE value="Change text from &quot;Hallo test round!&quot; to &quot;Hallo test round 2!&quot;" />
     <MESSAGE value="Change color form the background and the name" />
-    <option name="LAST_COMMIT_MESSAGE" value="Change color form the background and the name" />
+    <MESSAGE value="Opdracht 2.2" />
+    <option name="LAST_COMMIT_MESSAGE" value="Opdracht 2.2" />
   </component>
   <component name="WindowStateProjectService">
     <state x="137" y="13" width="1092" height="715" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1599673867540">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="137" y="13" width="1092" height="715" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728@0.0.1366.728" timestamp="1599673867540" />
+    <state x="458" y="165" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1599680276522">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="458" y="165" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.728@0.0.1366.728" timestamp="1599680276522" />
+    <state x="92" y="92" width="1182" height="544" key="DiffContextDialog" timestamp="1599674522883">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="92" y="92" width="1182" height="544" key="DiffContextDialog/0.0.1366.728@0.0.1366.728" timestamp="1599674522883" />
     <state x="463" y="118" key="FileChooserDialogImpl" timestamp="1599670915038">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="463" y="118" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1599670915038" />
-    <state width="661" height="223" key="GridCell.Tab.0.bottom" timestamp="1599673531132">
+    <state width="661" height="163" key="GridCell.Tab.0.bottom" timestamp="1599685061797">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="661" height="223" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1599673531132" />
-    <state width="661" height="223" key="GridCell.Tab.0.center" timestamp="1599673531131">
+    <state width="661" height="163" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1599685061797" />
+    <state width="661" height="163" key="GridCell.Tab.0.center" timestamp="1599685061796">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="661" height="223" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1599673531131" />
-    <state width="661" height="223" key="GridCell.Tab.0.left" timestamp="1599673531130">
+    <state width="661" height="163" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1599685061796" />
+    <state width="661" height="163" key="GridCell.Tab.0.left" timestamp="1599685061796">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="661" height="223" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1599673531130" />
-    <state width="661" height="223" key="GridCell.Tab.0.right" timestamp="1599673531132">
+    <state width="661" height="163" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1599685061796" />
+    <state width="661" height="163" key="GridCell.Tab.0.right" timestamp="1599685061796">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="661" height="223" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1599673531132" />
+    <state width="661" height="163" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1599685061796" />
+    <state width="661" height="223" key="GridCell.Tab.1.bottom" timestamp="1599673913472">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="661" height="223" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1599673913472" />
+    <state width="661" height="223" key="GridCell.Tab.1.center" timestamp="1599673913472">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="661" height="223" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1599673913472" />
+    <state width="661" height="223" key="GridCell.Tab.1.left" timestamp="1599673913471">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="661" height="223" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1599673913471" />
+    <state width="661" height="223" key="GridCell.Tab.1.right" timestamp="1599673913472">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="661" height="223" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1599673913472" />
     <state x="426" y="66" key="RollbackChangesDialog" timestamp="1599672761982">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -193,9 +260,13 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="184" y="9" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1599653872910" />
-    <state x="275" y="96" key="Vcs.Push.Dialog.v2" timestamp="1599673389456">
+    <state x="275" y="96" key="Vcs.Push.Dialog.v2" timestamp="1599674629365">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="275" y="96" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1599673389456" />
+    <state x="275" y="96" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1599674629365" />
+    <state x="339" y="162" key="run.anything.popup" timestamp="1599682119302">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="339" y="162" key="run.anything.popup/0.0.1366.728@0.0.1366.728" timestamp="1599682119302" />
   </component>
 </project>
