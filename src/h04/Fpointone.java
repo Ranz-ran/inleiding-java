@@ -7,6 +7,9 @@ import java.awt.*;
 
 public class Fpointone extends Applet {
 
+    public static void main(String[] args) {
+
+    }
     public void init() {
 
     }

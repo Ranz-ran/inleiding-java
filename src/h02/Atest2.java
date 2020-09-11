@@ -7,8 +7,8 @@ import java.awt.Color;
 
 
 
-
 public class Atest2 extends Applet {
+
 
         Color light_blue = new Color(141, 223, 238);
         Color YELLOW = new Color(253, 235, 110);
@@ -25,3 +25,4 @@ public class Atest2 extends Applet {
                 g.drawString("Kuo", 50, 65);
         }
 }
+

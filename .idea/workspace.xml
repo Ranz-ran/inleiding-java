@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="BranchesTreeState">
     <expand>
       <path>
@@ -19,16 +22,22 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="67526c09-8273-46e9-a0be-c82dfc6ae11f" name="Default Changelist" comment="Opdracht 2.2">
-      <change afterPath="$PROJECT_DIR$/src/h02/vragen_htwee" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/h04/Four_point_one.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/h04/vragen_hdrie" afterDir="false" />
+    <list default="true" id="67526c09-8273-46e9-a0be-c82dfc6ae11f" name="Default Changelist" comment="4.1 af">
+      <change afterPath="$PROJECT_DIR$/src/h04/FpointTwo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/h04/Gewicht.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/h04/NLflag.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/h02/Atest2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/h02/Atest2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/h04/Four_point_one.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/h04/Fpointone.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/h04/Fpointone.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -61,9 +70,16 @@
     <property name="node.js.path.for.package.tslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="project.propDebugger" />
   </component>
-  <component name="RunManager" selected="Applet.Four_point_one">
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="h04" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Applet.Gewicht">
     <configuration name="Atest2" type="Applet" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="h02.Atest2" />
       <module name="inleiding-java" />
@@ -71,15 +87,36 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Four_point_one" type="Applet" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="h04.Four_point_one" />
+    <configuration name="Fpointone" type="Applet" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="h04.Fpointone" />
       <module name="inleiding-java" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Naamw" type="Applet" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="h02.Naamw" />
+    <configuration name="Fpointtwo" type="Applet" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="h04.Fpointtwo" />
+      <module name="inleiding-java" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Gewicht" type="Applet" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="h04.Gewicht" />
+      <module name="inleiding-java" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NLflag" type="Applet" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="h04.NLflag" />
+      <module name="inleiding-java" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Show" type="Applet" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Show" />
       <module name="inleiding-java" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -98,34 +135,40 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
           <option name="containerStateName" value="" />
         </value>
       </option>
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <list>
+      <item itemvalue="Applet.Fpointone" />
       <item itemvalue="Applet.Atest2" />
       <item itemvalue="Application.HalloRocDev" />
-      <item itemvalue="Applet.Naamw" />
-      <item itemvalue="Applet.Four_point_one" />
+      <item itemvalue="Applet.Fpointtwo" />
+      <item itemvalue="Applet.NLflag" />
+      <item itemvalue="Applet.Show" />
+      <item itemvalue="Applet.Gewicht" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Applet.Four_point_one" />
-        <item itemvalue="Applet.Naamw" />
+        <item itemvalue="Applet.Gewicht" />
+        <item itemvalue="Applet.NLflag" />
+        <item itemvalue="Applet.Show" />
+        <item itemvalue="Applet.Fpointtwo" />
         <item itemvalue="Applet.Atest2" />
       </list>
     </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\ritak\AppData\Roaming\Subversion</configuration>
+  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="67526c09-8273-46e9-a0be-c82dfc6ae11f" name="Default Changelist" comment="" />
@@ -134,7 +177,12 @@
       <option name="presentableId" value="Default" />
       <updated>1596867676053</updated>
       <workItem from="1599648097561" duration="4364000" />
-      <workItem from="1599653080904" duration="16628000" />
+      <workItem from="1599653080904" duration="17484000" />
+      <workItem from="1599721906007" duration="1368000" />
+      <workItem from="1599735431618" duration="215000" />
+      <workItem from="1599761820246" duration="3461000" />
+      <workItem from="1599769377297" duration="3723000" />
+      <workItem from="1599806004463" duration="13837000" />
     </task>
     <task id="LOCAL-00001" summary="Hallo test round">
       <created>1599648415559</created>
@@ -178,7 +226,21 @@
       <option name="project" value="LOCAL" />
       <updated>1599674625345</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="vragen_htwee en vragen_hdrie zijn af&#10;Bezig met 4.1">
+      <created>1599685305463</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1599685305465</updated>
+    </task>
+    <task id="LOCAL-00008" summary="4.1 af">
+      <created>1599772514597</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1599772514597</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -201,13 +263,23 @@
     <MESSAGE value="Change text from &quot;Hallo test round!&quot; to &quot;Hallo test round 2!&quot;" />
     <MESSAGE value="Change color form the background and the name" />
     <MESSAGE value="Opdracht 2.2" />
-    <option name="LAST_COMMIT_MESSAGE" value="Opdracht 2.2" />
+    <MESSAGE value="vragen_htwee en vragen_hdrie zijn af&#10;Bezig met 4.1" />
+    <MESSAGE value="4.1 af" />
+    <option name="LAST_COMMIT_MESSAGE" value="4.1 af" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="137" y="13" width="1092" height="715" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1599673867540">
+    <state x="436" y="0" key="#Code_Folding" timestamp="1599813355102">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="137" y="13" width="1092" height="715" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728@0.0.1366.728" timestamp="1599673867540" />
+    <state x="436" y="0" key="#Code_Folding/0.0.1366.728@0.0.1366.728" timestamp="1599813355102" />
+    <state x="275" y="4" key="#Plugins" timestamp="1599772873011">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="275" y="4" key="#Plugins/0.0.1366.728@0.0.1366.728" timestamp="1599772873011" />
+    <state x="137" y="0" width="1092" height="728" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1599816269648">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="137" y="0" width="1092" height="728" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728@0.0.1366.728" timestamp="1599816269647" />
     <state x="458" y="165" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1599680276522">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -216,57 +288,57 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="92" y="92" width="1182" height="544" key="DiffContextDialog/0.0.1366.728@0.0.1366.728" timestamp="1599674522883" />
-    <state x="463" y="118" key="FileChooserDialogImpl" timestamp="1599670915038">
+    <state x="463" y="118" key="FileChooserDialogImpl" timestamp="1599772956840">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="463" y="118" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1599670915038" />
-    <state width="661" height="163" key="GridCell.Tab.0.bottom" timestamp="1599685061797">
+    <state x="463" y="118" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1599772956840" />
+    <state width="661" height="163" key="GridCell.Tab.0.bottom" timestamp="1599820133678">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="661" height="163" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1599685061797" />
-    <state width="661" height="163" key="GridCell.Tab.0.center" timestamp="1599685061796">
+    <state width="661" height="163" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1599820133678" />
+    <state width="661" height="163" key="GridCell.Tab.0.center" timestamp="1599820133677">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="661" height="163" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1599685061796" />
-    <state width="661" height="163" key="GridCell.Tab.0.left" timestamp="1599685061796">
+    <state width="661" height="163" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1599820133677" />
+    <state width="661" height="163" key="GridCell.Tab.0.left" timestamp="1599820133677">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="661" height="163" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1599685061796" />
-    <state width="661" height="163" key="GridCell.Tab.0.right" timestamp="1599685061796">
+    <state width="661" height="163" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1599820133677" />
+    <state width="661" height="163" key="GridCell.Tab.0.right" timestamp="1599820133678">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="661" height="163" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1599685061796" />
-    <state width="661" height="223" key="GridCell.Tab.1.bottom" timestamp="1599673913472">
+    <state width="661" height="163" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1599820133678" />
+    <state width="661" height="223" key="GridCell.Tab.1.bottom" timestamp="1599686237876">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="661" height="223" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1599673913472" />
-    <state width="661" height="223" key="GridCell.Tab.1.center" timestamp="1599673913472">
+    <state width="661" height="223" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1599686237876" />
+    <state width="661" height="223" key="GridCell.Tab.1.center" timestamp="1599686237876">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="661" height="223" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1599673913472" />
-    <state width="661" height="223" key="GridCell.Tab.1.left" timestamp="1599673913471">
+    <state width="661" height="223" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1599686237875" />
+    <state width="661" height="223" key="GridCell.Tab.1.left" timestamp="1599686237875">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="661" height="223" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1599673913471" />
-    <state width="661" height="223" key="GridCell.Tab.1.right" timestamp="1599673913472">
+    <state width="661" height="223" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1599686237875" />
+    <state width="661" height="223" key="GridCell.Tab.1.right" timestamp="1599686237876">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="661" height="223" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1599673913472" />
+    <state width="661" height="223" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1599686237876" />
     <state x="426" y="66" key="RollbackChangesDialog" timestamp="1599672761982">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="426" y="66" key="RollbackChangesDialog/0.0.1366.728@0.0.1366.728" timestamp="1599672761982" />
-    <state x="184" y="9" key="SettingsEditor" timestamp="1599653872910">
+    <state x="184" y="9" key="SettingsEditor" timestamp="1599810732007">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="184" y="9" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1599653872910" />
-    <state x="275" y="96" key="Vcs.Push.Dialog.v2" timestamp="1599674629365">
+    <state x="184" y="9" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1599810732007" />
+    <state x="275" y="96" key="Vcs.Push.Dialog.v2" timestamp="1599772525043">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="275" y="96" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1599674629365" />
-    <state x="339" y="162" key="run.anything.popup" timestamp="1599682119302">
+    <state x="275" y="96" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1599772525043" />
+    <state x="339" y="162" key="run.anything.popup" timestamp="1599807455069">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="339" y="162" key="run.anything.popup/0.0.1366.728@0.0.1366.728" timestamp="1599682119302" />
+    <state x="339" y="162" key="run.anything.popup/0.0.1366.728@0.0.1366.728" timestamp="1599807455069" />
   </component>
 </project>
