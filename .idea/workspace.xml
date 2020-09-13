@@ -22,13 +22,9 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="67526c09-8273-46e9-a0be-c82dfc6ae11f" name="Default Changelist" comment="benbezig met Gewicht">
-      <change afterPath="$PROJECT_DIR$/src/h04/Dice.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/h04/Ellips.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/h04/Pratijkopdr.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/h04/Stoplicht.java" afterDir="false" />
+    <list default="true" id="67526c09-8273-46e9-a0be-c82dfc6ae11f" name="Default Changelist" comment="Bezig met pratijk opdracht. De rest van h04 zijn af.">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/h04/Gewicht.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/h04/Gewicht.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/h04/Pratijkopdr.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/h04/Pratijkopdr.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -134,27 +130,14 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
-      <option name="arquillianRunConfiguration">
-        <value>
-          <option name="containerStateName" value="" />
-        </value>
-      </option>
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <list>
       <item itemvalue="Applet.Fpointone" />
       <item itemvalue="Applet.Gewicht" />
-      <item itemvalue="Application.HalloRocDev" />
       <item itemvalue="Applet.Ellips" />
       <item itemvalue="Applet.Stoplicht" />
       <item itemvalue="Applet.Dice" />
       <item itemvalue="Applet.Pratijkopdr" />
+      <item itemvalue="Application.HalloRocDev" />
     </list>
     <recent_temporary>
       <list>
@@ -184,7 +167,8 @@
       <workItem from="1599761820246" duration="3461000" />
       <workItem from="1599769377297" duration="3723000" />
       <workItem from="1599806004463" duration="22995000" />
-      <workItem from="1599851726242" duration="9341000" />
+      <workItem from="1599851726242" duration="10129000" />
+      <workItem from="1600023847455" duration="6213000" />
     </task>
     <task id="LOCAL-00001" summary="Hallo test round">
       <created>1599648415559</created>
@@ -256,7 +240,14 @@
       <option name="project" value="LOCAL" />
       <updated>1599835455179</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="Bezig met pratijk opdracht. De rest van h04 zijn af.">
+      <created>1599861935815</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1599861935815</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -282,7 +273,8 @@
     <MESSAGE value="vragen_htwee en vragen_hdrie zijn af&#10;Bezig met 4.1" />
     <MESSAGE value="4.1 af" />
     <MESSAGE value="benbezig met Gewicht" />
-    <option name="LAST_COMMIT_MESSAGE" value="benbezig met Gewicht" />
+    <MESSAGE value="Bezig met pratijk opdracht. De rest van h04 zijn af." />
+    <option name="LAST_COMMIT_MESSAGE" value="Bezig met pratijk opdracht. De rest van h04 zijn af." />
   </component>
   <component name="WindowStateProjectService">
     <state x="436" y="0" key="#Code_Folding" timestamp="1599813355102">
@@ -309,22 +301,22 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="463" y="118" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1599772956840" />
-    <state width="661" height="163" key="GridCell.Tab.0.bottom" timestamp="1599861780607">
+    <state width="661" height="163" key="GridCell.Tab.0.bottom" timestamp="1600028775369">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="661" height="163" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1599861780607" />
-    <state width="661" height="163" key="GridCell.Tab.0.center" timestamp="1599861780607">
+    <state width="661" height="163" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1600028775369" />
+    <state width="661" height="163" key="GridCell.Tab.0.center" timestamp="1600028775368">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="661" height="163" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1599861780607" />
-    <state width="661" height="163" key="GridCell.Tab.0.left" timestamp="1599861780607">
+    <state width="661" height="163" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1600028775368" />
+    <state width="661" height="163" key="GridCell.Tab.0.left" timestamp="1600028775368">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="661" height="163" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1599861780607" />
-    <state width="661" height="163" key="GridCell.Tab.0.right" timestamp="1599861780607">
+    <state width="661" height="163" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1600028775368" />
+    <state width="661" height="163" key="GridCell.Tab.0.right" timestamp="1600028775368">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="661" height="163" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1599861780607" />
+    <state width="661" height="163" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1600028775368" />
     <state width="661" height="223" key="GridCell.Tab.1.bottom" timestamp="1599686237876">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -349,10 +341,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="184" y="9" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1599810732007" />
-    <state x="275" y="96" key="Vcs.Push.Dialog.v2" timestamp="1599835480739">
+    <state x="275" y="96" key="Vcs.Push.Dialog.v2" timestamp="1599861969413">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="275" y="96" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1599835480739" />
+    <state x="275" y="96" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1599861969413" />
     <state x="339" y="162" key="run.anything.popup" timestamp="1599807455069">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
