@@ -22,19 +22,8 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="67526c09-8273-46e9-a0be-c82dfc6ae11f" name="Default Changelist" comment="h04 &amp; Pratijkopdr is ook af">
-      <change afterPath="$PROJECT_DIR$/src/h04/vragen_h04" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/h06/Karwei.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/h06/Negatief.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/h06/Pratijkopdr2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/h06/Seconden.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/h06/Vragen_h06" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/inleiding-java/h02/vragen_htwee" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/inleiding-java/h04/vragen_hdrie" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/h02/vragen_htwee" beforeDir="false" afterPath="$PROJECT_DIR$/src/h02/vragen_h02" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/h04/vragen_hdrie" beforeDir="false" afterPath="$PROJECT_DIR$/src/h03/vragen_h03" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/h05/GewichtV.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/h05/GewichtV.java" afterDir="false" />
+    <list default="true" id="67526c09-8273-46e9-a0be-c82dfc6ae11f" name="Default Changelist" comment="Heb sommige bestandnaam veranderd. En ben nu bezig met h07.">
+      <change beforePath="$PROJECT_DIR$/src/h06/Pratijkopdr2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/h06/Pratijkopdr2.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -197,7 +186,7 @@
       <workItem from="1599851726242" duration="10129000" />
       <workItem from="1600023847455" duration="6602000" />
       <workItem from="1600065536804" duration="16846000" />
-      <workItem from="1600152609492" duration="15796000" />
+      <workItem from="1600152609492" duration="16214000" />
     </task>
     <task id="LOCAL-00001" summary="Hallo test round">
       <created>1599648415559</created>
@@ -290,7 +279,14 @@
       <option name="project" value="LOCAL" />
       <updated>1600085386368</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="Heb sommige bestandnaam veranderd. En ben nu bezig met h07.">
+      <created>1600173695974</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1600173695974</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -319,7 +315,8 @@
     <MESSAGE value="Bezig met pratijk opdracht. De rest van h04 zijn af." />
     <MESSAGE value="h04 &amp; Pratijkopdr is ook af" />
     <MESSAGE value="h05 af" />
-    <option name="LAST_COMMIT_MESSAGE" value="h05 af" />
+    <MESSAGE value="Heb sommige bestandnaam veranderd. En ben nu bezig met h07." />
+    <option name="LAST_COMMIT_MESSAGE" value="Heb sommige bestandnaam veranderd. En ben nu bezig met h07." />
   </component>
   <component name="WindowStateProjectService">
     <state x="436" y="0" key="#Code_Folding" timestamp="1599813355102">
@@ -334,10 +331,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="137" y="0" width="1092" height="728" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728@0.0.1366.728" timestamp="1599816269647" />
-    <state x="458" y="165" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1600173273835">
+    <state x="458" y="165" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1600173367686">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="458" y="165" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.728@0.0.1366.728" timestamp="1600173273835" />
+    <state x="458" y="165" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.728@0.0.1366.728" timestamp="1600173367686" />
     <state x="92" y="92" width="1182" height="544" key="DiffContextDialog" timestamp="1599674522883">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -346,22 +343,22 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="463" y="118" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1600070485166" />
-    <state width="661" height="163" key="GridCell.Tab.0.bottom" timestamp="1600173045768">
+    <state width="661" height="163" key="GridCell.Tab.0.bottom" timestamp="1600173666875">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="661" height="163" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1600173045768" />
-    <state width="661" height="163" key="GridCell.Tab.0.center" timestamp="1600173045768">
+    <state width="661" height="163" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1600173666875" />
+    <state width="661" height="163" key="GridCell.Tab.0.center" timestamp="1600173666874">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="661" height="163" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1600173045768" />
-    <state width="661" height="163" key="GridCell.Tab.0.left" timestamp="1600173045768">
+    <state width="661" height="163" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1600173666874" />
+    <state width="661" height="163" key="GridCell.Tab.0.left" timestamp="1600173666874">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="661" height="163" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1600173045768" />
-    <state width="661" height="163" key="GridCell.Tab.0.right" timestamp="1600173045768">
+    <state width="661" height="163" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1600173666874" />
+    <state width="661" height="163" key="GridCell.Tab.0.right" timestamp="1600173666875">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="661" height="163" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1600173045768" />
+    <state width="661" height="163" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1600173666875" />
     <state width="661" height="223" key="GridCell.Tab.1.bottom" timestamp="1599686237876">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -386,10 +383,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="184" y="9" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1599810732007" />
-    <state x="275" y="96" key="Vcs.Push.Dialog.v2" timestamp="1600085406235">
+    <state x="275" y="96" key="Vcs.Push.Dialog.v2" timestamp="1600173700986">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="275" y="96" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1600085406235" />
+    <state x="275" y="96" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1600173700986" />
     <state x="339" y="162" key="run.anything.popup" timestamp="1599807455069">
       <screen x="0" y="0" width="1366" height="728" />
     </state>

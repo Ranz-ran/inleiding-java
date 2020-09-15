@@ -26,7 +26,7 @@ public class Pratijkopdr2 extends Applet {
         ans = gem_cijfer*10;
         ans2 = ans/3;
         ans3 = (int) ans2;
-        ans4 = (double) ans3/10;
+        ans4 = ans3 /10;
     }
 
 
