@@ -1,0 +1,10 @@
+1. Waarom is initialiseren van variabelen noodzakelijk?
+A: Anders word je bestand veel te groot.
+2. Waarom is er typecasting noodzakelijk bij de conversie van een double naar een int?
+A: Omdat de getallen geen comma getal zijn.
+3. Wat is de uitvoer van dit programma? Geef een verklaring.
+g.drawString("De uitkomst is: " + uitkomst, 20, 20);
+4. In de regel uitkomst = (a + b) / c; laat je de ronde haken weg. De regel ziet er dan als volgt uit:
+A: uitkomst = a + b / c;
+5. Wat is de uitvoer van dit programma? Geef een verklaring.
+A: Dan wordt de gedeeldoor eerst berekend en dan pas plus. Vanwege reken volgorde.

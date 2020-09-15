@@ -23,9 +23,18 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="67526c09-8273-46e9-a0be-c82dfc6ae11f" name="Default Changelist" comment="h04 &amp; Pratijkopdr is ook af">
-      <change afterPath="$PROJECT_DIR$/src/h05/GewichtV.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/h05/Variabelen.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/h04/vragen_h04" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/h06/Karwei.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/h06/Negatief.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/h06/Pratijkopdr2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/h06/Seconden.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/h06/Vragen_h06" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/inleiding-java/h02/vragen_htwee" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/inleiding-java/h04/vragen_hdrie" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/h02/vragen_htwee" beforeDir="false" afterPath="$PROJECT_DIR$/src/h02/vragen_h02" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/h04/vragen_hdrie" beforeDir="false" afterPath="$PROJECT_DIR$/src/h03/vragen_h03" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/h05/GewichtV.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/h05/GewichtV.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -59,7 +68,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../DiceParser" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/h03" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -75,15 +84,11 @@
       <recent name="h05" />
       <recent name="h04" />
     </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\ritak\Desktop\Javaproject\inleiding-java\src\h03" />
+    </key>
   </component>
-  <component name="RunManager" selected="Applet.GewichtV">
-    <configuration name="Dice" type="Applet" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="h04.Dice" />
-      <module name="inleiding-java" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Applet.Pratijkopdr2">
     <configuration name="Fpointone" type="Applet" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="h04.Fpointone" />
       <module name="inleiding-java" />
@@ -98,22 +103,29 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Pratijkopdr" type="Applet" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="h04.Pratijkopdr" />
+    <configuration name="Karwei" type="Applet" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="h06.Karwei" />
       <module name="inleiding-java" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Show" type="Applet" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="h05.Show" />
+    <configuration name="Negatief" type="Applet" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="h06.Negatief" />
       <module name="inleiding-java" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Variabelen" type="Applet" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="h05.Variabelen" />
+    <configuration name="Pratijkopdr2" type="Applet" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="h06.Pratijkopdr2" />
+      <module name="inleiding-java" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Seconden" type="Applet" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="h06.Seconden" />
       <module name="inleiding-java" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -132,33 +144,35 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
           <option name="containerStateName" value="" />
         </value>
       </option>
-      <option name="TEST_OBJECT" value="class" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <list>
       <item itemvalue="Applet.Fpointone" />
-      <item itemvalue="Applet.Dice" />
-      <item itemvalue="Applet.Pratijkopdr" />
-      <item itemvalue="Application.HalloRocDev" />
       <item itemvalue="Applet.GewichtV" />
-      <item itemvalue="Applet.Variabelen" />
-      <item itemvalue="Applet.Show" />
+      <item itemvalue="Application.HalloRocDev" />
+      <item itemvalue="Applet.Karwei" />
+      <item itemvalue="Applet.Seconden" />
+      <item itemvalue="Applet.Negatief" />
+      <item itemvalue="Applet.Pratijkopdr2" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Applet.Pratijkopdr2" />
+        <item itemvalue="Applet.Negatief" />
+        <item itemvalue="Applet.Seconden" />
+        <item itemvalue="Applet.Karwei" />
         <item itemvalue="Applet.GewichtV" />
-        <item itemvalue="Applet.Variabelen" />
-        <item itemvalue="Applet.Show" />
-        <item itemvalue="Applet.Pratijkopdr" />
-        <item itemvalue="Applet.Dice" />
       </list>
     </recent_temporary>
   </component>
@@ -182,7 +196,8 @@
       <workItem from="1599806004463" duration="22995000" />
       <workItem from="1599851726242" duration="10129000" />
       <workItem from="1600023847455" duration="6602000" />
-      <workItem from="1600065536804" duration="15137000" />
+      <workItem from="1600065536804" duration="16846000" />
+      <workItem from="1600152609492" duration="15796000" />
     </task>
     <task id="LOCAL-00001" summary="Hallo test round">
       <created>1599648415559</created>
@@ -268,7 +283,14 @@
       <option name="project" value="LOCAL" />
       <updated>1600030553914</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="h05 af">
+      <created>1600085386367</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1600085386368</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -296,7 +318,8 @@
     <MESSAGE value="benbezig met Gewicht" />
     <MESSAGE value="Bezig met pratijk opdracht. De rest van h04 zijn af." />
     <MESSAGE value="h04 &amp; Pratijkopdr is ook af" />
-    <option name="LAST_COMMIT_MESSAGE" value="h04 &amp; Pratijkopdr is ook af" />
+    <MESSAGE value="h05 af" />
+    <option name="LAST_COMMIT_MESSAGE" value="h05 af" />
   </component>
   <component name="WindowStateProjectService">
     <state x="436" y="0" key="#Code_Folding" timestamp="1599813355102">
@@ -311,10 +334,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="137" y="0" width="1092" height="728" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728@0.0.1366.728" timestamp="1599816269647" />
-    <state x="458" y="165" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1599680276522">
+    <state x="458" y="165" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1600173273835">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="458" y="165" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.728@0.0.1366.728" timestamp="1599680276522" />
+    <state x="458" y="165" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.728@0.0.1366.728" timestamp="1600173273835" />
     <state x="92" y="92" width="1182" height="544" key="DiffContextDialog" timestamp="1599674522883">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -323,22 +346,22 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="463" y="118" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1600070485166" />
-    <state width="661" height="163" key="GridCell.Tab.0.bottom" timestamp="1600085090434">
+    <state width="661" height="163" key="GridCell.Tab.0.bottom" timestamp="1600173045768">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="661" height="163" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1600085090434" />
-    <state width="661" height="163" key="GridCell.Tab.0.center" timestamp="1600085090433">
+    <state width="661" height="163" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1600173045768" />
+    <state width="661" height="163" key="GridCell.Tab.0.center" timestamp="1600173045768">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="661" height="163" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1600085090433" />
-    <state width="661" height="163" key="GridCell.Tab.0.left" timestamp="1600085090433">
+    <state width="661" height="163" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1600173045768" />
+    <state width="661" height="163" key="GridCell.Tab.0.left" timestamp="1600173045768">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="661" height="163" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1600085090433" />
-    <state width="661" height="163" key="GridCell.Tab.0.right" timestamp="1600085090433">
+    <state width="661" height="163" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1600173045768" />
+    <state width="661" height="163" key="GridCell.Tab.0.right" timestamp="1600173045768">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="661" height="163" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1600085090433" />
+    <state width="661" height="163" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1600173045768" />
     <state width="661" height="223" key="GridCell.Tab.1.bottom" timestamp="1599686237876">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -363,10 +386,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="184" y="9" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1599810732007" />
-    <state x="275" y="96" key="Vcs.Push.Dialog.v2" timestamp="1600030561039">
+    <state x="275" y="96" key="Vcs.Push.Dialog.v2" timestamp="1600085406235">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="275" y="96" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1600030561039" />
+    <state x="275" y="96" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1600085406235" />
     <state x="339" y="162" key="run.anything.popup" timestamp="1599807455069">
       <screen x="0" y="0" width="1366" height="728" />
     </state>

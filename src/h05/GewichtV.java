@@ -10,19 +10,11 @@ public class GewichtV extends Applet {
     Color paars = new Color(136, 98, 227);
     Color lichtGrijs = new Color(167, 168, 168);
     //kinderen
-    Color Jeroen;
-    Color Hans;
-    Color Valerie;
+    Color Jeroen, Hans, Valerie;
 
     //assen
-    Color xas;
-    Color stappen;
-    int Xas;
-    int Xas2;
-    int Xas3;
-    int jgewicht;
-    int hgewicht;
-    int vgewicht;
+    Color xas, stappen;
+    int Xas, Xas2, Xas3, jgewicht, hgewicht, vgewicht;
 
 
     public void init() {
