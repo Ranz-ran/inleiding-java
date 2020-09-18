@@ -14,9 +14,7 @@ import java.awt.*;
 // Vervolgens terugconverteren naar een double en door 10 delen.
 public class Pratijkopdr2 extends Applet {
     int cursisten;
-    double ans4;
-    double ans3;
-    double c1,c2,c3,gem_cijfer,ans,ans2;
+    double ans4,ans3,c1,c2,c3,gem_cijfer,ans,ans2;
     public void init() {
         cursisten = 3;
         c1 = 5.9;
