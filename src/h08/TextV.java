@@ -19,7 +19,7 @@ public class TextV extends Applet {
         hoogte,
         prijs;
     Color blauw;
-
+    String message;
     //ok
     Button ok;
     //reset
@@ -54,8 +54,7 @@ public class TextV extends Applet {
         add(code_in_voeren);
         stiker = new Label("nooit proberen nooit raken!");
         add(stiker);
-
-
+        message = code_in_voeren.getText();
     }
 
     @Override
@@ -82,7 +81,6 @@ public class TextV extends Applet {
 
         public void actionPerformed(ActionEvent e) {
             //general
-            String message = code_in_voeren.getText();
             ok.setLabel(message);
             stiker.setText(message);
             //"Voer hier uw code in."
@@ -95,8 +93,12 @@ public class TextV extends Applet {
     class Myloop2 implements ActionListener {
 
         public void actionPerformed(ActionEvent e) {
+            reset.setLabel("");
+            stiker.setText("");
 
             repaint();
         }
+
+
     }
 }
