@@ -84,8 +84,8 @@ public class TextV extends Applet {
             message = code_in_voeren.getText();
             ok.setLabel(message);
             stiker.setText(message);
-            //"Voer hier uw code in."
-            //"Gefeliciteerd!!! Uw heeft een prijs van"+prijs+"gewonnen!!!"
+            //of "Voer hier uw code in."
+            //of "Gefeliciteerd!!! Uw heeft een prijs van"+prijs+"gewonnen!!!"
             repaint();
 
         }
