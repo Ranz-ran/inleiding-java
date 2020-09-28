@@ -12,7 +12,8 @@ import java.awt.event.ActionListener;
 
 public class OpenAvond extends Applet {
     //general
-    int een_person,twee, drie, vier;
+    int een_person,twee, drie, vier,ans1;
+    String ans;
     //knoppen
     Button man,vrouw,meiden,jongen;
     int breete,hoogte,xas,yas;
@@ -29,7 +30,10 @@ public class OpenAvond extends Applet {
         hoogte = 20;
         xas = 50;
         yas = 30;
-        //mannen
+        ans1 = 1;
+        ans = String.valueOf((ans1+twee+drie+vier));
+
+                //mannen
         man = new Button("Man+0");
         add(man);
         man.addActionListener(new Knop());
@@ -51,22 +55,18 @@ public class OpenAvond extends Applet {
 
     public void paint(Graphics g) {
         //general
-
+        g.drawString(ans,200,200);
         //mannen
         man.setSize(breete,hoogte);
-        man.setLabel("man+");
         man.setLocation(xas,yas);
         //vrouwen
         vrouw.setSize(breete,hoogte);
-        vrouw.setLabel("vrouwen+");
         vrouw.setLocation(xas+80,yas);
         //meiden
         meiden.setSize(breete,hoogte);
-        meiden.setLabel("meiden+");
         meiden.setLocation(xas+160,yas);
         //jongen
         jongen.setSize(breete,hoogte);
-        jongen.setLabel("jongen+");
         jongen.setLocation(xas+240,yas);
     }
 
@@ -74,7 +74,8 @@ public class OpenAvond extends Applet {
 
         public void actionPerformed(ActionEvent e) {
             //general
-            man.setLabel("man" + "+" + (een_person += 1));
+            man.setLabel("man" + "+" + (een_person += ans1));
+
         }
     }
 
@@ -101,5 +102,6 @@ public class OpenAvond extends Applet {
 
         }
     }
+
 
 }
