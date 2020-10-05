@@ -1,0 +1,16 @@
+//general
+TextField = txv (文字塊
+x-as = x1 (橫向的位置
+y-as = y1 (豎向的位置
+String = print (可以顯示文字的條
+
+  init (前面準備
+   ok = new Button(名);
+   add(要顯示的東西);
+   ok.addActionListener(new 連接的名());
+
+
+   paint (顯示在Applet上
+    Button/TextField/Label.setSize (00,00);
+    Button/TextField/Label.setLabel ("文字");
+    Button/TextField/Label.setLocation (00,00);
