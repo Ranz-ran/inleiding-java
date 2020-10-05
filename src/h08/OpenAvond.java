@@ -54,8 +54,12 @@ public class OpenAvond extends Applet {
 
 
     public void paint(Graphics g) {
-        //general
+
+
+      // TODO: totaal toevoegen.
+      //general
         g.drawString(ans,200,200);
+        g.drawString("totaal"+ "",60,70);
         //mannen
         man.setSize(breete,hoogte);
         man.setLocation(xas,yas);
