@@ -22,8 +22,8 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="67526c09-8273-46e9-a0be-c82dfc6ae11f" name="Default Changelist" comment="h11_1 af">
-      <change afterPath="$PROJECT_DIR$/src/h11/H11_2.java" afterDir="false" />
+    <list default="true" id="67526c09-8273-46e9-a0be-c82dfc6ae11f" name="Default Changelist" comment="h11_2 af">
+      <change afterPath="$PROJECT_DIR$/src/h11/H11_3.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -140,25 +140,14 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
-      <option name="arquillianRunConfiguration">
-        <value>
-          <option name="containerStateName" value="" />
-        </value>
-      </option>
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <list>
       <item itemvalue="Applet.Fpointone" />
       <item itemvalue="Applet.H10_5" />
       <item itemvalue="Applet.Pratijk3" />
       <item itemvalue="Applet.S1" />
-      <item itemvalue="Application.HalloRocDev" />
       <item itemvalue="Applet.H11_1" />
       <item itemvalue="Applet.H11_2" />
+      <item itemvalue="Application.HalloRocDev" />
     </list>
     <recent_temporary>
       <list>
@@ -223,7 +212,12 @@
       <workItem from="1602241292240" duration="1354000" />
       <workItem from="1602481759555" duration="1316000" />
       <workItem from="1602484494108" duration="2901000" />
-      <workItem from="1602491651204" duration="11264000" />
+      <workItem from="1602491651204" duration="11437000" />
+      <workItem from="1602783237047" duration="1586000" />
+      <workItem from="1603023228926" duration="723000" />
+      <workItem from="1603084845842" duration="1157000" />
+      <workItem from="1603183846000" duration="439000" />
+      <workItem from="1603198252226" duration="2490000" />
     </task>
     <task id="LOCAL-00001" summary="Hallo test round">
       <created>1599648415559</created>
@@ -456,7 +450,14 @@
       <option name="project" value="LOCAL" />
       <updated>1602493207005</updated>
     </task>
-    <option name="localTasksCounter" value="34" />
+    <task id="LOCAL-00034" summary="h11_2 af">
+      <created>1602518446157</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1602518446159</updated>
+    </task>
+    <option name="localTasksCounter" value="35" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -475,7 +476,6 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Opdracht 2.2" />
     <MESSAGE value="vragen_htwee en vragen_hdrie zijn af&#10;Bezig met 4.1" />
     <MESSAGE value="4.1 af" />
     <MESSAGE value="benbezig met Gewicht" />
@@ -500,7 +500,8 @@
     <MESSAGE value="bezig H11_1" />
     <MESSAGE value="2020-10-08 les" />
     <MESSAGE value="h11_1 af" />
-    <option name="LAST_COMMIT_MESSAGE" value="h11_1 af" />
+    <MESSAGE value="h11_2 af" />
+    <option name="LAST_COMMIT_MESSAGE" value="h11_2 af" />
   </component>
   <component name="WindowStateProjectService">
     <state x="436" y="0" key="#Code_Folding" timestamp="1599813355102">
@@ -539,22 +540,22 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="463" y="118" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1600070485166" />
-    <state width="661" height="113" key="GridCell.Tab.0.bottom" timestamp="1602516582639">
+    <state width="661" height="113" key="GridCell.Tab.0.bottom" timestamp="1603023960182">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="661" height="113" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1602516582639" />
-    <state width="661" height="113" key="GridCell.Tab.0.center" timestamp="1602516582636">
+    <state width="661" height="113" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1603023960182" />
+    <state width="661" height="113" key="GridCell.Tab.0.center" timestamp="1603023960182">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="661" height="113" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1602516582636" />
-    <state width="661" height="113" key="GridCell.Tab.0.left" timestamp="1602516582631">
+    <state width="661" height="113" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1603023960182" />
+    <state width="661" height="113" key="GridCell.Tab.0.left" timestamp="1603023960181">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="661" height="113" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1602516582631" />
-    <state width="661" height="113" key="GridCell.Tab.0.right" timestamp="1602516582637">
+    <state width="661" height="113" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1603023960181" />
+    <state width="661" height="113" key="GridCell.Tab.0.right" timestamp="1603023960182">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="661" height="113" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1602516582637" />
+    <state width="661" height="113" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1603023960182" />
     <state width="1323" height="223" key="GridCell.Tab.1.bottom" timestamp="1600783899036">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -583,18 +584,18 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="530" y="277" key="VCS.ChangelistChooser/0.0.1366.728@0.0.1366.728" timestamp="1601634988896" />
-    <state x="275" y="96" key="Vcs.Push.Dialog.v2" timestamp="1602493209607">
+    <state x="275" y="96" key="Vcs.Push.Dialog.v2" timestamp="1602518451896">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="275" y="96" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1602493209607" />
+    <state x="275" y="96" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1602518451896" />
     <state x="500" y="277" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1601589984233">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="500" y="277" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1366.728@0.0.1366.728" timestamp="1601589984233" />
-    <state x="339" y="162" key="run.anything.popup" timestamp="1599807455069">
+    <state x="339" y="162" key="run.anything.popup" timestamp="1603023958880">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="339" y="162" key="run.anything.popup/0.0.1366.728@0.0.1366.728" timestamp="1599807455069" />
+    <state x="339" y="162" key="run.anything.popup/0.0.1366.728@0.0.1366.728" timestamp="1603023958880" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -608,6 +609,11 @@
           <url>file://$PROJECT_DIR$/src/h08/Pratijkopdr3.java</url>
           <line>28</line>
           <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/h11/H11_3.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="4" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
