@@ -22,9 +22,10 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="67526c09-8273-46e9-a0be-c82dfc6ae11f" name="Default Changelist" comment="h11_2 af">
-      <change afterPath="$PROJECT_DIR$/src/h11/H11_3.java" afterDir="false" />
+    <list default="true" id="67526c09-8273-46e9-a0be-c82dfc6ae11f" name="Default Changelist" comment="bezig h11_3">
+      <change afterPath="$PROJECT_DIR$/src/h11/VragenH11" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/h11/H11_3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/h11/H11_3.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -84,16 +85,9 @@
       <recent name="C:\Users\ritak\Desktop\Javaproject\inleiding-java\src\h03" />
     </key>
   </component>
-  <component name="RunManager" selected="Applet.H11_2">
+  <component name="RunManager" selected="Applet.H11_3">
     <configuration name="Fpointone" type="Applet" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="h04.Fpointone" />
-      <module name="inleiding-java" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="H10_5" type="Applet" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="h10.H10_5" />
       <module name="inleiding-java" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -108,6 +102,13 @@
     </configuration>
     <configuration name="H11_2" type="Applet" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="h11.H11_2" />
+      <module name="inleiding-java" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="H11_3" type="Applet" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="h11.H11_3" />
       <module name="inleiding-java" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -142,20 +143,20 @@
     </configuration>
     <list>
       <item itemvalue="Applet.Fpointone" />
-      <item itemvalue="Applet.H10_5" />
       <item itemvalue="Applet.Pratijk3" />
       <item itemvalue="Applet.S1" />
       <item itemvalue="Applet.H11_1" />
       <item itemvalue="Applet.H11_2" />
+      <item itemvalue="Applet.H11_3" />
       <item itemvalue="Application.HalloRocDev" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Applet.H11_3" />
         <item itemvalue="Applet.H11_2" />
         <item itemvalue="Applet.H11_1" />
         <item itemvalue="Applet.S1" />
         <item itemvalue="Applet.Pratijk3" />
-        <item itemvalue="Applet.H10_5" />
       </list>
     </recent_temporary>
   </component>
@@ -217,7 +218,11 @@
       <workItem from="1603023228926" duration="723000" />
       <workItem from="1603084845842" duration="1157000" />
       <workItem from="1603183846000" duration="439000" />
-      <workItem from="1603198252226" duration="2490000" />
+      <workItem from="1603198252226" duration="2841000" />
+      <workItem from="1603222079980" duration="2428000" />
+      <workItem from="1603296025316" duration="573000" />
+      <workItem from="1603302993431" duration="6042000" />
+      <workItem from="1603363225812" duration="3076000" />
     </task>
     <task id="LOCAL-00001" summary="Hallo test round">
       <created>1599648415559</created>
@@ -457,7 +462,14 @@
       <option name="project" value="LOCAL" />
       <updated>1602518446159</updated>
     </task>
-    <option name="localTasksCounter" value="35" />
+    <task id="LOCAL-00035" summary="bezig h11_3">
+      <created>1603202325990</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1603202325993</updated>
+    </task>
+    <option name="localTasksCounter" value="36" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -476,7 +488,6 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="vragen_htwee en vragen_hdrie zijn af&#10;Bezig met 4.1" />
     <MESSAGE value="4.1 af" />
     <MESSAGE value="benbezig met Gewicht" />
     <MESSAGE value="Bezig met pratijk opdracht. De rest van h04 zijn af." />
@@ -501,7 +512,8 @@
     <MESSAGE value="2020-10-08 les" />
     <MESSAGE value="h11_1 af" />
     <MESSAGE value="h11_2 af" />
-    <option name="LAST_COMMIT_MESSAGE" value="h11_2 af" />
+    <MESSAGE value="bezig h11_3" />
+    <option name="LAST_COMMIT_MESSAGE" value="bezig h11_3" />
   </component>
   <component name="WindowStateProjectService">
     <state x="436" y="0" key="#Code_Folding" timestamp="1599813355102">
@@ -520,14 +532,14 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="137" y="0" width="1092" height="728" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728@0.0.1366.728" timestamp="1599816269647" />
-    <state x="458" y="165" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1601810027909">
+    <state x="458" y="165" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1603224713026">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="458" y="165" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.728@0.0.1366.728" timestamp="1601810027909" />
-    <state x="488" y="70" key="#com.intellij.ide.util.MemberChooser" timestamp="1601882260083">
+    <state x="458" y="165" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.728@0.0.1366.728" timestamp="1603224713026" />
+    <state x="488" y="70" key="#com.intellij.ide.util.MemberChooser" timestamp="1603363808253">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="488" y="70" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728@0.0.1366.728" timestamp="1601882260083" />
+    <state x="488" y="70" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728@0.0.1366.728" timestamp="1603363808253" />
     <state x="413" y="110" key="#com.intellij.refactoring.typeMigration.ui.FailedConversionsDialog" timestamp="1600782284201">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -540,22 +552,22 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="463" y="118" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1600070485166" />
-    <state width="661" height="113" key="GridCell.Tab.0.bottom" timestamp="1603023960182">
+    <state width="661" height="113" key="GridCell.Tab.0.bottom" timestamp="1603366246437">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="661" height="113" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1603023960182" />
-    <state width="661" height="113" key="GridCell.Tab.0.center" timestamp="1603023960182">
+    <state width="661" height="113" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1603366246437" />
+    <state width="661" height="113" key="GridCell.Tab.0.center" timestamp="1603366246436">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="661" height="113" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1603023960182" />
-    <state width="661" height="113" key="GridCell.Tab.0.left" timestamp="1603023960181">
+    <state width="661" height="113" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1603366246436" />
+    <state width="661" height="113" key="GridCell.Tab.0.left" timestamp="1603366246436">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="661" height="113" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1603023960181" />
-    <state width="661" height="113" key="GridCell.Tab.0.right" timestamp="1603023960182">
+    <state width="661" height="113" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1603366246436" />
+    <state width="661" height="113" key="GridCell.Tab.0.right" timestamp="1603366246437">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="661" height="113" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1603023960182" />
+    <state width="661" height="113" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1603366246437" />
     <state width="1323" height="223" key="GridCell.Tab.1.bottom" timestamp="1600783899036">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -584,10 +596,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="530" y="277" key="VCS.ChangelistChooser/0.0.1366.728@0.0.1366.728" timestamp="1601634988896" />
-    <state x="275" y="96" key="Vcs.Push.Dialog.v2" timestamp="1602518451896">
+    <state x="275" y="96" key="Vcs.Push.Dialog.v2" timestamp="1603202332183">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="275" y="96" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1602518451896" />
+    <state x="275" y="96" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1603202332183" />
     <state x="500" y="277" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1601589984233">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -609,11 +621,6 @@
           <url>file://$PROJECT_DIR$/src/h08/Pratijkopdr3.java</url>
           <line>28</line>
           <option name="timeStamp" value="3" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/h11/H11_3.java</url>
-          <line>13</line>
-          <option name="timeStamp" value="4" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
