@@ -24,7 +24,6 @@ public class H11_3 extends Applet {
 
 
 
-
     }
 
     @Override
