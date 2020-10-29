@@ -56,9 +56,7 @@ public class P11 extends Applet {
 
         for (ans1 = 1; ans1 <= 10; ans1++) {
             y += 20;
-
-            t1 = ans1 * 1;
-
+            
 
             if (ans1 == 1) {print = ""+ans1+" x 1 = "+t1 +"";}
             else {print = "Deze tafel staat niet in het rijtje";}
@@ -85,7 +83,5 @@ public class P11 extends Applet {
         }
 
     }
-
-
 
 }
