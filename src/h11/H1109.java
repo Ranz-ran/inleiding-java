@@ -14,7 +14,7 @@ public class H1109 extends Applet {
     @Override
     public void init() {
 
-        setSize(500,400);
+        setSize(600,400);
 
         wit = new Color (255, 255, 255);
         zwart = new Color (0, 0, 0);
@@ -31,14 +31,29 @@ public class H1109 extends Applet {
     public void paint(Graphics g) {
 
         for (c = 0; c <8; c++){
-            if (c == 0 || c == 2 || c ==4 || c == 6 ) {
-                g.setColor(zwart);
-                g.fillRect(x,y,w,h);
-                x += 50;
-            } else {
-                g.setColor(zwart);
-                g.drawRect(x-25,y,w,h);
+            for (int b = 0; b <8; b++){
+                if (b == 0 || b == 2 || b ==4 || b == 6 ) {
+                    if (c % 2 == 0){
+                        g.setColor(zwart);
+                        g.fillRect(x,y,w,h);
+                    } else {
+                        g.setColor(zwart);
+                        g.drawRect(x,y,w,h);
+                    }
+                }
+                else {
+                    if (c % 2 == 1){
+                        g.setColor(zwart);
+                        g.fillRect(x,y,w,h);
+                    } else {
+                        g.setColor(zwart);
+                        g.drawRect(x,y,w,h);
+                    }
+                }
+                x += 25;
             }
+            y+= 25;
+            x = 30;
 
         }
 

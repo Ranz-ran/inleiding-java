@@ -24,7 +24,7 @@
   <component name="ChangeListManager">
     <list default="true" id="67526c09-8273-46e9-a0be-c82dfc6ae11f" name="Default Changelist" comment="bezig met pratijk">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/h11/P11.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/h11/P11.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/h11/H1109.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/h11/H1109.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -87,7 +87,7 @@
       <recent name="C:\Users\ritak\Desktop\Javaproject\inleiding-java\src\h03" />
     </key>
   </component>
-  <component name="RunManager" selected="Applet.P11">
+  <component name="RunManager" selected="Applet.H1109">
     <configuration name="Fpointone" type="Applet" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="h04.Fpointone" />
       <module name="inleiding-java" />
@@ -143,6 +143,17 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <list>
       <item itemvalue="Applet.Fpointone" />
       <item itemvalue="Applet.H1109" />
@@ -154,11 +165,11 @@
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Applet.H1109" />
         <item itemvalue="Applet.P11" />
         <item itemvalue="Applet.H11_3" />
         <item itemvalue="Applet.H1104" />
         <item itemvalue="Applet.Test" />
-        <item itemvalue="Applet.H1109" />
       </list>
     </recent_temporary>
   </component>
@@ -245,7 +256,8 @@
       <workItem from="1603913358553" duration="3000" />
       <workItem from="1603913741220" duration="34000" />
       <workItem from="1603915181073" duration="5000" />
-      <workItem from="1603954685585" duration="594000" />
+      <workItem from="1603954685585" duration="641000" />
+      <workItem from="1603973395085" duration="1027000" />
     </task>
     <task id="LOCAL-00001" summary="Hallo test round">
       <created>1599648415559</created>
@@ -562,7 +574,14 @@
       <option name="project" value="LOCAL" />
       <updated>1603835846066</updated>
     </task>
-    <option name="localTasksCounter" value="46" />
+    <task id="LOCAL-00046" summary="bezig met pratijk">
+      <created>1603960666481</created>
+      <option name="number" value="00046" />
+      <option name="presentableId" value="LOCAL-00046" />
+      <option name="project" value="LOCAL" />
+      <updated>1603960666481</updated>
+    </task>
+    <option name="localTasksCounter" value="47" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -649,22 +668,22 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="463" y="118" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1600070485166" />
-    <state width="661" height="114" key="GridCell.Tab.0.bottom" timestamp="1603873648561">
+    <state width="661" height="114" key="GridCell.Tab.0.bottom" timestamp="1603974311999">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="661" height="114" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1603873648561" />
-    <state width="661" height="114" key="GridCell.Tab.0.center" timestamp="1603873648561">
+    <state width="661" height="114" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1603974311999" />
+    <state width="661" height="114" key="GridCell.Tab.0.center" timestamp="1603974311998">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="661" height="114" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1603873648561" />
-    <state width="661" height="114" key="GridCell.Tab.0.left" timestamp="1603873648561">
+    <state width="661" height="114" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1603974311998" />
+    <state width="661" height="114" key="GridCell.Tab.0.left" timestamp="1603974311998">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="661" height="114" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1603873648561" />
-    <state width="661" height="114" key="GridCell.Tab.0.right" timestamp="1603873648561">
+    <state width="661" height="114" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1603974311998" />
+    <state width="661" height="114" key="GridCell.Tab.0.right" timestamp="1603974311998">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="661" height="114" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1603873648561" />
+    <state width="661" height="114" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1603974311998" />
     <state width="661" height="223" key="GridCell.Tab.1.bottom" timestamp="1603577536791">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -693,10 +712,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="530" y="277" key="VCS.ChangelistChooser/0.0.1366.728@0.0.1366.728" timestamp="1601634988896" />
-    <state x="275" y="96" key="Vcs.Push.Dialog.v2" timestamp="1603835860291">
+    <state x="275" y="96" key="Vcs.Push.Dialog.v2" timestamp="1603960677298">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="275" y="96" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1603835860291" />
+    <state x="275" y="96" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1603960677298" />
     <state x="500" y="277" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1601589984233">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
