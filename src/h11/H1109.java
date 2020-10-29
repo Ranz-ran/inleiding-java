@@ -6,30 +6,22 @@ import java.awt.*;
 
 public class H1109 extends Applet {
 
-    //general
-
      int x,y,w,h,c;
-     Color wit,zwart;
+     Color zwart;
 
     @Override
     public void init() {
-
         setSize(600,400);
-
-        wit = new Color (255, 255, 255);
         zwart = new Color (0, 0, 0);
-
 
         x = 30;
         y = 30;
         w = 25;
         h = 25;
-
     }
 
     @Override
     public void paint(Graphics g) {
-
         for (c = 0; c <8; c++){
             for (int b = 0; b <8; b++){
                 if (b == 0 || b == 2 || b ==4 || b == 6 ) {
@@ -40,8 +32,7 @@ public class H1109 extends Applet {
                         g.setColor(zwart);
                         g.drawRect(x,y,w,h);
                     }
-                }
-                else {
+                } else {
                     if (c % 2 == 1){
                         g.setColor(zwart);
                         g.fillRect(x,y,w,h);
@@ -54,11 +45,6 @@ public class H1109 extends Applet {
             }
             y+= 25;
             x = 30;
-
         }
-
-
     }
-
-
 }
