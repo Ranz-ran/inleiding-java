@@ -22,11 +22,9 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="67526c09-8273-46e9-a0be-c82dfc6ae11f" name="Default Changelist" comment="H1109.java is Af">
-      <change afterPath="$PROJECT_DIR$/src/h11/P011.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/h12/H1201.java" afterDir="false" />
+    <list default="true" id="67526c09-8273-46e9-a0be-c82dfc6ae11f" name="Default Changelist" comment="H11 is Af &amp; bezig met H12.1">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/h11/P11.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/h11/P11.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/h11/P011.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/h11/P011.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -264,7 +262,7 @@
       <workItem from="1603973395085" duration="2788000" />
       <workItem from="1604044667761" duration="11228000" />
       <workItem from="1604296930376" duration="3279000" />
-      <workItem from="1604305497390" duration="3200000" />
+      <workItem from="1604305497390" duration="5292000" />
     </task>
     <task id="LOCAL-00001" summary="Hallo test round">
       <created>1599648415559</created>
@@ -602,7 +600,14 @@
       <option name="project" value="LOCAL" />
       <updated>1603975152485</updated>
     </task>
-    <option name="localTasksCounter" value="49" />
+    <task id="LOCAL-00049" summary="H11 is Af &amp; bezig met H12.1">
+      <created>1604310744191</created>
+      <option name="number" value="00049" />
+      <option name="presentableId" value="LOCAL-00049" />
+      <option name="project" value="LOCAL" />
+      <updated>1604310744191</updated>
+    </task>
+    <option name="localTasksCounter" value="50" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -621,7 +626,6 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="h08.3 is af" />
     <MESSAGE value="h08 is helemaal af" />
     <MESSAGE value="Bezige met h10" />
     <MESSAGE value="Verandering h08 OpenAvond.java" />
@@ -646,7 +650,8 @@
     <MESSAGE value="bezig H1109.java" />
     <MESSAGE value="bezig met pratijk" />
     <MESSAGE value="H1109.java is Af" />
-    <option name="LAST_COMMIT_MESSAGE" value="H1109.java is Af" />
+    <MESSAGE value="H11 is Af &amp; bezig met H12.1" />
+    <option name="LAST_COMMIT_MESSAGE" value="H11 is Af &amp; bezig met H12.1" />
   </component>
   <component name="WindowStateProjectService">
     <state x="436" y="0" key="#Code_Folding" timestamp="1599813355102">
@@ -689,22 +694,22 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="463" y="118" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1600070485166" />
-    <state width="661" height="114" key="GridCell.Tab.0.bottom" timestamp="1604310225978">
+    <state width="661" height="114" key="GridCell.Tab.0.bottom" timestamp="1604313567673">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="661" height="114" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1604310225978" />
-    <state width="661" height="114" key="GridCell.Tab.0.center" timestamp="1604310225977">
+    <state width="661" height="114" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1604313567673" />
+    <state width="661" height="114" key="GridCell.Tab.0.center" timestamp="1604313567672">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="661" height="114" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1604310225977" />
-    <state width="661" height="114" key="GridCell.Tab.0.left" timestamp="1604310225977">
+    <state width="661" height="114" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1604313567672" />
+    <state width="661" height="114" key="GridCell.Tab.0.left" timestamp="1604313567672">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="661" height="114" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1604310225977" />
-    <state width="661" height="114" key="GridCell.Tab.0.right" timestamp="1604310225977">
+    <state width="661" height="114" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1604313567672" />
+    <state width="661" height="114" key="GridCell.Tab.0.right" timestamp="1604313567673">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="661" height="114" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1604310225977" />
+    <state width="661" height="114" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1604313567673" />
     <state width="661" height="223" key="GridCell.Tab.1.bottom" timestamp="1603577536791">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -733,10 +738,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="530" y="277" key="VCS.ChangelistChooser/0.0.1366.728@0.0.1366.728" timestamp="1601634988896" />
-    <state x="275" y="96" key="Vcs.Push.Dialog.v2" timestamp="1603975154171">
+    <state x="275" y="96" key="Vcs.Push.Dialog.v2" timestamp="1604310746405">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="275" y="96" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1603975154171" />
+    <state x="275" y="96" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1604310746405" />
     <state x="500" y="277" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1601589984233">
       <screen x="0" y="0" width="1366" height="728" />
     </state>

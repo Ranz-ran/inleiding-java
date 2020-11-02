@@ -47,13 +47,12 @@ public class P011 extends Applet {
         txv1.addActionListener(new AL1());
     }
 
-    @Override
     public void paint(Graphics g) {
         //userInput = 1
         for (int ans1 = 1; ans1 <= 10; ans1 += 1) {
             y += 20;
             int antwoord = userInput * ans1;
-            g.drawString("De tafel van " + userInput + " is " + ans1 + " * " + userInput + " = " + String.valueOf(antwoord), x + 50, y);
+            g.drawString(userInput + " x " + ans1 + " = " + antwoord, x + 50, y);
         }
 
     }
