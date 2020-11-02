@@ -15,76 +15,57 @@ import java.awt.*;
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
 
-
-public class P11 extends Applet {
-
-    //general
-    int t1,x,y,x1,w,h,ans1;
-    String userInput,print;
-    Button ok;
+public class P011 extends Applet {
+    int x,y,userInput,t1,t2,t3;
     TextField txv1;
+    String print;
+    Button ok;
+    Label l1;
 
     @Override
     public void init() {
-        //tafels (eerste opdracht
-        //location&with,h
+        Color paars = new Color(229, 191, 239, 255);
+        setBackground(paars);
+
+        userInput = 0;
         x = 30;
         y = 30;
-        x1 = 60;
-        w = 30;
-        h = 30;
-        //
+        t1 = 1;
+        t2 = 2;
+        t3 = 3;
+
+        print = " "+ t1 +" x " + userInput + " = ";
+
         ok = new Button("ok");
         add(ok);
-
-        txv1 = new TextField();
+        ok.setLocation(50,20);
+        ok.addActionListener(new AL1());
+        txv1 = new TextField("");
         add(txv1);
-
+        l1 = new Label("...");
+        txv1.setLocation(20,20);
+        txv1.addActionListener(new AL1());
     }
 
     @Override
     public void paint(Graphics g) {
-        //tafels (eerste opdracht
-        ////txv
-        ok.setSize(w,h);
-        ok.setLocation(x1,y);
-        ok.addActionListener(new Txv());
-        txv1.setLocation(x,y);
-        txv1.addActionListener(new Txv());
-
-        g.drawString(print,30,y+50);
-
-        for (ans1 = 1; ans1 <= 10; ans1++) {
+        //userInput = 1
+        for (int ans1 = 1; ans1 <= 10; ans1 += 1) {
             y += 20;
-
-            switch (ans1==1){
-                case "1" = print = ""+ans1+" x 1 = "+t1 +""; break;
-                else
-            }
-            //if (ans1 == 1) {print = ""+ans1+" x 1 = "+t1 +"";}
-            //else {print = "Deze tafel staat niet in het rijtje";}
-
-            g.drawString(print,30,y+90);
+            int antwoord = userInput * ans1;
+            g.drawString("De tafel van " + userInput + " is " + ans1 + " * " + userInput + " = " + String.valueOf(antwoord), x + 50, y);
         }
 
     }
 
-    class Txv implements ActionListener{
-
+    class AL1 implements ActionListener{
         @Override
         public void actionPerformed(ActionEvent e) {
-            System.out.println("test");
-            userInput = txv1.getText();
-
+            userInput = Integer.parseInt(txv1.getText());
+            y = 30;
             repaint();
-
-            //if (ans1 == 1) {print = ""+ans1+" x 1 = "+t1 +"";}
-            //else {print = "Deze tafel staat niet in het rijtje";}
-
-
-
         }
-
     }
+
 
 }
