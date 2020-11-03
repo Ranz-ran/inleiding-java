@@ -7,6 +7,8 @@ import java.awt.*;
 public class H1201 extends Applet {
 
     int [] getal;
+    int totaal;
+
 
     @Override
     public void init() {
@@ -14,6 +16,7 @@ public class H1201 extends Applet {
         getal = new int[10];
 
         for (int teller = 0; teller < 10; teller++){
+            getal[teller] = 1 * (teller + 1);
 
         }
 
@@ -23,9 +26,12 @@ public class H1201 extends Applet {
     @Override
     public void paint(Graphics g) {
         for (int teller = 0; teller < 10; teller++){
+            g.drawString("" + getal[teller], 50, 15 * teller + 20);
+            totaal = totaal + getal[teller];
 
         }
 
 
+        g.drawString("totaal: " + totaal, 50, 200);
     }
 }

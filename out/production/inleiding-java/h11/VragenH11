@@ -1,0 +1,13 @@
+1. Wat is het verschil tussen een while- en een for-lus?
+
+2. Wat is het nesten van lussen?
+
+Bekijk de volgende broncode
+
+int eind = 5;
+for(int i = 10;  i < eind;  i++) {
+     ....
+     ....
+}
+4. Wordt de lus uitgevoerd? Geef een verklaring voor je antwoord
+A: Ja want zodra als i kleiner is dan eind. Dan wordt het uitgevoerd.
