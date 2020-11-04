@@ -19,7 +19,7 @@ public class H1202 extends Applet {
     public void paint(Graphics g) {
 
         for (int teller = 0; teller < b.length; teller++);
-        b[teller] = 100 * teller + 100;
+        b[25] = 100 * teller + 100;
     }
 
 }
