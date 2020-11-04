@@ -22,7 +22,10 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="67526c09-8273-46e9-a0be-c82dfc6ae11f" name="Default Changelist" comment="H1201.java is Af &amp; bezig met H1202.java" />
+    <list default="true" id="67526c09-8273-46e9-a0be-c82dfc6ae11f" name="Default Changelist" comment="H1201.java is Af &amp; bezig met H1202.java">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/h12/H1202.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/h12/H1202.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -84,7 +87,7 @@
       <recent name="C:\Users\ritak\Desktop\Javaproject\inleiding-java\src\h03" />
     </key>
   </component>
-  <component name="RunManager" selected="Applet.H1201">
+  <component name="RunManager" selected="Applet.H1202">
     <configuration name="Fpointone" type="Applet" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="h04.Fpointone" />
       <module name="inleiding-java" />
@@ -99,15 +102,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="P011" type="Applet" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="h11.P011" />
+    <configuration name="H1202" type="Applet" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="h12.H1202" />
       <module name="inleiding-java" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="P11" type="Applet" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="h11.P11" />
+    <configuration name="P011" type="Applet" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="h11.P011" />
       <module name="inleiding-java" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -140,33 +143,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
-      <option name="arquillianRunConfiguration">
-        <value>
-          <option name="containerStateName" value="" />
-        </value>
-      </option>
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <list>
       <item itemvalue="Applet.Fpointone" />
-      <item itemvalue="Applet.P11" />
       <item itemvalue="Applet.P011" />
       <item itemvalue="Applet.S1" />
       <item itemvalue="Applet.Test" />
       <item itemvalue="Applet.H1201" />
+      <item itemvalue="Applet.H1202" />
       <item itemvalue="Application.HalloRocDev" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Applet.H1202" />
         <item itemvalue="Applet.H1201" />
         <item itemvalue="Applet.P011" />
         <item itemvalue="Applet.Test" />
         <item itemvalue="Applet.S1" />
-        <item itemvalue="Applet.P11" />
       </list>
     </recent_temporary>
   </component>
@@ -258,14 +250,9 @@
       <workItem from="1604044667761" duration="11228000" />
       <workItem from="1604296930376" duration="3279000" />
       <workItem from="1604305497390" duration="7622000" />
-      <workItem from="1604396935344" duration="4675000" />
-    </task>
-    <task id="LOCAL-00003" summary="Change color form the background and the name">
-      <created>1599673384115</created>
-      <option name="number" value="00003" />
-      <option name="presentableId" value="LOCAL-00003" />
-      <option name="project" value="LOCAL" />
-      <updated>1599673384116</updated>
+      <workItem from="1604396935344" duration="8900000" />
+      <workItem from="1604432260988" duration="599000" />
+      <workItem from="1604484725177" duration="2546000" />
     </task>
     <task id="LOCAL-00004" summary="Change color form the background and the name">
       <created>1599673953223</created>
@@ -603,7 +590,14 @@
       <option name="project" value="LOCAL" />
       <updated>1604408384574</updated>
     </task>
-    <option name="localTasksCounter" value="52" />
+    <task id="LOCAL-00052" summary="H1201.java is Af &amp; bezig met H1202.java">
+      <created>1604408803531</created>
+      <option name="number" value="00052" />
+      <option name="presentableId" value="LOCAL-00052" />
+      <option name="project" value="LOCAL" />
+      <updated>1604408803532</updated>
+    </task>
+    <option name="localTasksCounter" value="53" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -690,22 +684,22 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="463" y="118" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1600070485166" />
-    <state width="661" height="114" key="GridCell.Tab.0.bottom" timestamp="1604408395675">
+    <state width="661" height="114" key="GridCell.Tab.0.bottom" timestamp="1604412779131">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="661" height="114" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1604408395675" />
-    <state width="661" height="114" key="GridCell.Tab.0.center" timestamp="1604408395675">
+    <state width="661" height="114" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1604412779131" />
+    <state width="661" height="114" key="GridCell.Tab.0.center" timestamp="1604412779131">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="661" height="114" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1604408395675" />
-    <state width="661" height="114" key="GridCell.Tab.0.left" timestamp="1604408395674">
+    <state width="661" height="114" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1604412779131" />
+    <state width="661" height="114" key="GridCell.Tab.0.left" timestamp="1604412779130">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="661" height="114" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1604408395674" />
-    <state width="661" height="114" key="GridCell.Tab.0.right" timestamp="1604408395675">
+    <state width="661" height="114" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1604412779130" />
+    <state width="661" height="114" key="GridCell.Tab.0.right" timestamp="1604412779131">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="661" height="114" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1604408395675" />
+    <state width="661" height="114" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1604412779131" />
     <state width="661" height="223" key="GridCell.Tab.1.bottom" timestamp="1603577536791">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -734,10 +728,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="530" y="277" key="VCS.ChangelistChooser/0.0.1366.728@0.0.1366.728" timestamp="1601634988896" />
-    <state x="275" y="96" key="Vcs.Push.Dialog.v2" timestamp="1604408387710">
+    <state x="275" y="96" key="Vcs.Push.Dialog.v2" timestamp="1604408805709">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="275" y="96" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1604408387710" />
+    <state x="275" y="96" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1604408805709" />
     <state x="500" y="277" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1601589984233">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
