@@ -4,22 +4,34 @@ import java.applet.Applet;
 import java.awt.*;
 
 public class H1202 extends Applet {
-
-    Button[] b;
+    int x,y;
+    Button[] b = new Button[25];
 
     @Override
     public void init() {
-        b = new Button[25];
-        add(b[25]);
+        x=30;
+        y=30;
 
-        for (int i = 0; i < b.length; i++ );
+        int i;
+        for (i = 0; i < 25; i++) {
+
+            b[i] = new Button("button" + i);
+            add(b[i]);
+            b[i].setLocation(x, y);
+            y++;
+            
+
+        }
+
+
+
+
     }
 
     @Override
     public void paint(Graphics g) {
 
-        for (int teller = 0; teller < b.length; teller++);
-        b[25] = 100 * teller + 100;
+
     }
 
 }
