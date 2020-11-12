@@ -22,6 +22,8 @@ public class H1203 extends Applet {
     @Override
     public void init() {
 
+        userInput = String.valueOf(0);
+
         ok = new Button("ok");
         ok.addActionListener(new Al());
         ok.setLocation(30,50);
@@ -31,8 +33,6 @@ public class H1203 extends Applet {
             txv[i] = new TextField("");
             add(txv[i]);
             txv[i].addActionListener(new Al());
-
-
 
         }
 
