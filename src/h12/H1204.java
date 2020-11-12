@@ -10,17 +10,19 @@ import java.applet.Applet;
 import java.awt.*;
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
+import java.util.Arrays;
 
 public class H1204 extends Applet {
 
-    int[] getal = {1,3,4,8,11,14,15};
+    int[] tabel = {1,3,4,8,11,14,15};
     TextField txv;
     Button ok;
+    String userInput;
 
     @Override
     public void init() {
 
-        txv = new TextField("...");
+        txv = new TextField();
         add(txv);
         txv.addActionListener(new Al());
         ok = new Button("ok");
@@ -28,15 +30,14 @@ public class H1204 extends Applet {
         ok.addActionListener(new Al());
 
 
-        //for (int i=0; i>=15; i++ );{
+        for (int i=0; i<7; i++ );{
 
-        //}
+        }
     }
 
     @Override
     public void paint(Graphics g) {
 
-        g.drawString(getal+"",30,50);
 
     }
 
@@ -45,6 +46,22 @@ public class H1204 extends Applet {
         @Override
         public void actionPerformed(ActionEvent e) {
 
+            for (int i = 0; i < 7; i++){
+
+
+            }
+
+
+            for (int getal=0; getal<7 ; getal++) {
+                userInput = txv.getText();
+                tabel[getal] = Integer.parseInt(userInput);
+            }
+            Arrays.sort(tabel);
+
+            for (int getal=0; getal<7 ; getal++){
+                txv.setText(tabel[getal]+"");
+
+            }
         }
     }
 

@@ -9,10 +9,12 @@ import java.applet.Applet;
 import java.awt.*;
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
+import java.util.Arrays;
 
 public class H1203 extends Applet {
 
     int i;
+    int[] tabel = new int[5];
     String userInput;
     TextField[] txv = new TextField[5];
     Button ok;
@@ -29,10 +31,9 @@ public class H1203 extends Applet {
         ok.setLocation(30,50);
         add(ok);
 
-        for (i = 0; i < 5; i++) {
+        for (i = 0; i < 5; i+= 1) {
             txv[i] = new TextField("");
             add(txv[i]);
-            txv[i].addActionListener(new Al());
 
         }
 
@@ -43,14 +44,24 @@ public class H1203 extends Applet {
     @Override
     public void paint(Graphics g) {
 
-        g.drawString(userInput + "", 30, 60);
 
     }
 
     class Al implements ActionListener {
         @Override
         public void actionPerformed(ActionEvent e) {
-            userInput = txv[i].getText();
+          //  int getal;
+            for (int getal=0; getal<5 ; getal++) {
+            userInput = txv[getal].getText();
+            tabel[getal] = Integer.parseInt(userInput);
+            }
+            Arrays.sort(tabel);
+
+            for (int getal=0; getal<5 ; getal++){
+                txv[getal].setText(tabel[getal]+"");
+
+            }
+
         }
     }
 
