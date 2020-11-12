@@ -2,6 +2,9 @@ package h12;
 //Maak een applet waarin vijf tekstvakken (uiteraard in een tabel) worden getoond. In de tekstvakken moet de
 // gebruiker getallen in kunnen voeren. Als de gebruiker op de Ok-knop klikt worden de getallen in oplopende volgorde
 // gesorteerd getoond in de tekstvakken.
+
+// 5 tekst vakken
+//getallen kunnen in vullen
 import java.applet.Applet;
 import java.awt.*;
 import java.awt.event.ActionEvent;
@@ -13,7 +16,7 @@ public class H1203 extends Applet {
     String userInput;
     TextField[] txv = new TextField[5];
     Button ok;
-    int[] getal = { 10, 20, 30, 40, 50 };
+
 
 
     @Override
@@ -29,20 +32,18 @@ public class H1203 extends Applet {
             add(txv[i]);
             txv[i].addActionListener(new Al());
 
-        }
 
-        for (getal ){
 
         }
+
+
 
     }
 
     @Override
     public void paint(Graphics g) {
-        while (i>userInput.length()) {
 
-        }
-        g.drawString(userInput + ""+ getal, 30, 60);
+        g.drawString(userInput + "", 30, 60);
 
     }
 
