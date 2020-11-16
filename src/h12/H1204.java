@@ -13,12 +13,12 @@ import java.awt.event.ActionListener;
 
 public class H1204 extends Applet {
 
-    boolean gevonden;
+    boolean found;
     int[] tabel = {1,3,4,8,11,14,15};
     int y,max;
     TextField txv;
     Button ok;
-    String userInput;
+
 
     @Override
     public void init() {
@@ -33,20 +33,25 @@ public class H1204 extends Applet {
         ok.addActionListener(new Al());
 
 
-        max = tabel[0];
+       /* max = tabel[0];
         for (int getal = 0; getal < tabel.length; getal++) {
             if(tabel[getal] > max) {
                 max = tabel[getal];
 
             }
-        }
+        }*/
 
     }
 
     @Override
     public void paint(Graphics g) {
 
-        g.drawString("Het maximum is: " + max, 50, 50);
+       // g.drawString("De waarde is gevonden:) " + max, 50, 50);
+
+        if (found == true){
+            g.drawString("waarde is gevonden : )    " + "En index is: " + max,20,50);
+        }
+        else {g.drawString("waarde is niet gevonden...",20,50);}
 
     }
 
@@ -55,9 +60,19 @@ public class H1204 extends Applet {
         @Override
         public void actionPerformed(ActionEvent e) {
 
+            found = false;
+            int gegevenGetal = Integer.parseInt(txv.getText());
+            for (int i = 0; i < tabel.length; i++){
+                if (tabel[i] == gegevenGetal){
+                    found = true;
+                    max = i;
+                }
+
+            }
+            repaint();
 
 
-            for (int getal=0; getal<7 ; getal++) {
+           /* for (int getal=0; getal<7 ; getal++) {
                 userInput = txv.getText();
                 max = Integer.parseInt(userInput);
                 getGraphics().drawString(max+"",30,y);
@@ -65,7 +80,7 @@ public class H1204 extends Applet {
 
 
 
-            }
+            }*/
 
 
 
