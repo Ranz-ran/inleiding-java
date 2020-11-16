@@ -10,11 +10,12 @@ import java.applet.Applet;
 import java.awt.*;
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
-import java.util.Arrays;
 
 public class H1204 extends Applet {
 
+    boolean gevonden;
     int[] tabel = {1,3,4,8,11,14,15};
+    int y,max;
     TextField txv;
     Button ok;
     String userInput;
@@ -22,22 +23,30 @@ public class H1204 extends Applet {
     @Override
     public void init() {
 
+        y = 70;
+
         txv = new TextField();
         add(txv);
-        txv.addActionListener(new Al());
+        //txv.addActionListener(new Al());
         ok = new Button("ok");
         add(ok);
         ok.addActionListener(new Al());
 
 
-        for (int i=0; i<7; i++ );{
+        max = tabel[0];
+        for (int getal = 0; getal < tabel.length; getal++) {
+            if(tabel[getal] > max) {
+                max = tabel[getal];
 
+            }
         }
+
     }
 
     @Override
     public void paint(Graphics g) {
 
+        g.drawString("Het maximum is: " + max, 50, 50);
 
     }
 
@@ -46,22 +55,26 @@ public class H1204 extends Applet {
         @Override
         public void actionPerformed(ActionEvent e) {
 
-            for (int i = 0; i < 7; i++){
-
-
-            }
 
 
             for (int getal=0; getal<7 ; getal++) {
                 userInput = txv.getText();
-                tabel[getal] = Integer.parseInt(userInput);
-            }
-            Arrays.sort(tabel);
+                max = Integer.parseInt(userInput);
+                getGraphics().drawString(max+"",30,y);
+                y+= 20;
 
-            for (int getal=0; getal<7 ; getal++){
+
+
+            }
+
+
+
+            /*for (int getal=0; getal<7 ; getal++){
                 txv.setText(tabel[getal]+"");
 
-            }
+
+
+            }*/
         }
     }
 
