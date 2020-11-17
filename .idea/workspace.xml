@@ -24,7 +24,7 @@
   <component name="ChangeListManager">
     <list default="true" id="67526c09-8273-46e9-a0be-c82dfc6ae11f" name="Default Changelist" comment="H1204 af!!">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/h12/H1204.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/h12/H1204.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/h12/H1205.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/h12/H1205.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -264,13 +264,8 @@
       <workItem from="1605348040568" duration="8578000" />
       <workItem from="1605420752677" duration="4288000" />
       <workItem from="1605540764419" duration="4348000" />
-    </task>
-    <task id="LOCAL-00013" summary="h05 af">
-      <created>1600085386367</created>
-      <option name="number" value="00013" />
-      <option name="presentableId" value="LOCAL-00013" />
-      <option name="project" value="LOCAL" />
-      <updated>1600085386368</updated>
+      <workItem from="1605558549912" duration="3251000" />
+      <workItem from="1605601726157" duration="1800000" />
     </task>
     <task id="LOCAL-00014" summary="Heb sommige bestandnaam veranderd. En ben nu bezig met h07.">
       <created>1600173695974</created>
@@ -608,7 +603,14 @@
       <option name="project" value="LOCAL" />
       <updated>1605540859348</updated>
     </task>
-    <option name="localTasksCounter" value="62" />
+    <task id="LOCAL-00062" summary="H1204 af!!">
+      <created>1605558613096</created>
+      <option name="number" value="00062" />
+      <option name="presentableId" value="LOCAL-00062" />
+      <option name="project" value="LOCAL" />
+      <updated>1605558613325</updated>
+    </task>
+    <option name="localTasksCounter" value="63" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -739,10 +741,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="530" y="277" key="VCS.ChangelistChooser/0.0.1366.728@0.0.1366.728" timestamp="1601634988896" />
-    <state x="275" y="96" key="Vcs.Push.Dialog.v2" timestamp="1605541153450">
+    <state x="275" y="96" key="Vcs.Push.Dialog.v2" timestamp="1605558637704">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="275" y="96" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1605541153450" />
+    <state x="275" y="96" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1605558637704" />
     <state x="500" y="277" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1601589984233">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
