@@ -27,18 +27,18 @@ public class H1205 extends Applet {
         ok.addActionListener(new Al());
 
 
+
     }
 
     @Override
     public void paint(Graphics g) {
 
-        // g.drawString("De waarde is gevonden:) " + max, 50, 50);
-        
 
         if (found == true){
             g.drawString("waarde is gevonden : )    " + "En index is: " + max,20,50);
         }
         else {g.drawString("waarde is niet gevonden...",20,50);}
+
 
     }
 
