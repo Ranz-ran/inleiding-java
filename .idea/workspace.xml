@@ -22,9 +22,8 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="67526c09-8273-46e9-a0be-c82dfc6ae11f" name="Default Changelist" comment="bezig H1205.java&#10;H1206 is wel af">
+    <list default="true" id="67526c09-8273-46e9-a0be-c82dfc6ae11f" name="Default Changelist" comment="Alles zijn af behalve Pratijk">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/h12/H1205.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/h12/H1205.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/h12/P12.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/h12/P12.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -88,7 +87,7 @@
       <recent name="C:\Users\ritak\Desktop\Javaproject\inleiding-java\src\h03" />
     </key>
   </component>
-  <component name="RunManager" selected="Applet.H1205">
+  <component name="RunManager" selected="Applet.P12">
     <configuration name="Fpointone" type="Applet" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="h04.Fpointone" />
       <module name="inleiding-java" />
@@ -117,8 +116,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Test" type="Applet" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="h12.Test" />
+    <configuration name="P12" type="Applet" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="h12.P12" />
       <module name="inleiding-java" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -144,22 +143,33 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <list>
       <item itemvalue="Applet.Fpointone" />
-      <item itemvalue="Applet.Test" />
       <item itemvalue="Applet.H1204" />
       <item itemvalue="Applet.test" />
       <item itemvalue="Applet.H1205" />
       <item itemvalue="Applet.H1206" />
       <item itemvalue="Application.HalloRocDev" />
+      <item itemvalue="Applet.P12" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Applet.P12" />
         <item itemvalue="Applet.H1205" />
         <item itemvalue="Applet.H1206" />
         <item itemvalue="Applet.H1204" />
         <item itemvalue="Applet.test" />
-        <item itemvalue="Applet.Test" />
       </list>
     </recent_temporary>
   </component>
@@ -269,13 +279,7 @@
       <workItem from="1605601726157" duration="2261000" />
       <workItem from="1605684577874" duration="9979000" />
       <workItem from="1605766006201" duration="9218000" />
-    </task>
-    <task id="LOCAL-00018" summary="h08.1 is af">
-      <created>1600612612310</created>
-      <option name="number" value="00018" />
-      <option name="presentableId" value="LOCAL-00018" />
-      <option name="project" value="LOCAL" />
-      <updated>1600612612310</updated>
+      <workItem from="1605784990948" duration="4727000" />
     </task>
     <task id="LOCAL-00019" summary="h08.2 is af">
       <created>1600619334740</created>
@@ -613,7 +617,14 @@
       <option name="project" value="LOCAL" />
       <updated>1605766481453</updated>
     </task>
-    <option name="localTasksCounter" value="67" />
+    <task id="LOCAL-00067" summary="Alles zijn af behalve Pratijk">
+      <created>1605785055695</created>
+      <option name="number" value="00067" />
+      <option name="presentableId" value="LOCAL-00067" />
+      <option name="project" value="LOCAL" />
+      <updated>1605785055696</updated>
+    </task>
+    <option name="localTasksCounter" value="68" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -632,7 +643,6 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="h10.5 af" />
     <MESSAGE value="h10 af" />
     <MESSAGE value="bezig H11_1" />
     <MESSAGE value="2020-10-08 les" />
@@ -657,7 +667,8 @@
     <MESSAGE value="H1204 af!!" />
     <MESSAGE value="bezig H1205.java" />
     <MESSAGE value="bezig H1205.java&#10;H1206 is wel af" />
-    <option name="LAST_COMMIT_MESSAGE" value="bezig H1205.java&#10;H1206 is wel af" />
+    <MESSAGE value="Alles zijn af behalve Pratijk" />
+    <option name="LAST_COMMIT_MESSAGE" value="Alles zijn af behalve Pratijk" />
   </component>
   <component name="WindowStateProjectService">
     <state x="436" y="0" key="#Code_Folding" timestamp="1599813355102">
@@ -700,22 +711,22 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="463" y="118" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1600070485166" />
-    <state width="1323" height="114" key="GridCell.Tab.0.bottom" timestamp="1605780654056">
+    <state width="1323" height="114" key="GridCell.Tab.0.bottom" timestamp="1605790231016">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="114" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1605780654056" />
-    <state width="1323" height="114" key="GridCell.Tab.0.center" timestamp="1605780654056">
+    <state width="1323" height="114" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1605790231016" />
+    <state width="1323" height="114" key="GridCell.Tab.0.center" timestamp="1605790231015">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="114" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1605780654056" />
-    <state width="1323" height="114" key="GridCell.Tab.0.left" timestamp="1605780654055">
+    <state width="1323" height="114" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1605790231015" />
+    <state width="1323" height="114" key="GridCell.Tab.0.left" timestamp="1605790231015">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="114" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1605780654055" />
-    <state width="1323" height="114" key="GridCell.Tab.0.right" timestamp="1605780654056">
+    <state width="1323" height="114" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1605790231015" />
+    <state width="1323" height="114" key="GridCell.Tab.0.right" timestamp="1605790231015">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="114" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1605780654056" />
+    <state width="1323" height="114" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1605790231015" />
     <state width="1323" height="223" key="GridCell.Tab.1.bottom" timestamp="1605179040044">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -744,10 +755,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="530" y="277" key="VCS.ChangelistChooser/0.0.1366.728@0.0.1366.728" timestamp="1601634988896" />
-    <state x="275" y="96" key="Vcs.Push.Dialog.v2" timestamp="1605766295290">
+    <state x="275" y="96" key="Vcs.Push.Dialog.v2" timestamp="1605785060608">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="275" y="96" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1605766295290" />
+    <state x="275" y="96" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1605785060608" />
     <state x="500" y="277" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1601589984233">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -756,10 +767,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="339" y="162" key="run.anything.popup/0.0.1366.728@0.0.1366.728" timestamp="1603023958880" />
-    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1605767019501">
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1605786794545">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1605767019501" />
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1605786794545" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
