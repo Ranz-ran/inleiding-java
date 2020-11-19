@@ -45,7 +45,6 @@ public class P12 extends Applet {
         if (volleArray) {
             for (i = 0; i < 10; i++) {
 
-
                 g.drawString("" + naam[i] + "" + nummer[i], 50, 20 * i + 20);
 
             }
