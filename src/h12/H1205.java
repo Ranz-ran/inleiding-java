@@ -10,9 +10,10 @@ public class H1205 extends Applet {
 
     boolean found;
     int[] tabel = {1,3,4,8,11,14,15};
-    int y,max;
+    int y,max,geGevenGetal,i;
     TextField txv;
     Button ok;
+
 
 
     @Override
@@ -34,10 +35,12 @@ public class H1205 extends Applet {
     public void paint(Graphics g) {
 
 
-        if (found == true){
+        if (found = true){
             g.drawString("waarde is gevonden : )    " + "En index is: " + max,20,50);
         }
-        else {g.drawString("waarde is niet gevonden...",20,50);}
+        else {g.drawString("waarde is niet gevonden...",20,50);
+        }
+
 
 
     }
@@ -48,11 +51,13 @@ public class H1205 extends Applet {
         public void actionPerformed(ActionEvent e) {
 
             found = false;
-            int gegevenGetal = Integer.parseInt(txv.getText());
-            for (int i = 0; i < tabel.length; i++){
-                if (tabel[i] == gegevenGetal){
+            geGevenGetal = Integer.parseInt(txv.getText());
+            for (i = 0; i < tabel.length; i++){
+                if (tabel[i] == geGevenGetal){
                     found = true;
                     max = i;
+                }if ( geGevenGetal > 15) {
+                    break;
                 }
 
             }
