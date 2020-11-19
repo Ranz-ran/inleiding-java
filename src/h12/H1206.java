@@ -32,7 +32,7 @@ public class H1206 extends Applet {
     public void paint(Graphics g) {
 
 
-        if (found == true){
+        if (found = true){
             g.drawString("waarde is gevonden : )    " + "Het komt " + max + " voor.",20,50);
         }
         else {g.drawString("waarde is niet gevonden...",20,50);}

@@ -22,9 +22,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="67526c09-8273-46e9-a0be-c82dfc6ae11f" name="Default Changelist" comment="bezig H1205.java">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/h12/ExtraH12.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/h12/P12.java" afterDir="false" />
+    <list default="true" id="67526c09-8273-46e9-a0be-c82dfc6ae11f" name="Default Changelist" comment="bezig H1205.java&#10;H1206 is wel af">
       <change beforePath="$PROJECT_DIR$/src/h12/H1206.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/h12/H1206.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -268,13 +266,7 @@
       <workItem from="1605558549912" duration="3251000" />
       <workItem from="1605601726157" duration="2261000" />
       <workItem from="1605684577874" duration="9979000" />
-    </task>
-    <task id="LOCAL-00016" summary="Bezig met h08">
-      <created>1600466159654</created>
-      <option name="number" value="00016" />
-      <option name="presentableId" value="LOCAL-00016" />
-      <option name="project" value="LOCAL" />
-      <updated>1600466159655</updated>
+      <workItem from="1605766006201" duration="324000" />
     </task>
     <task id="LOCAL-00017" summary="h08.1 is af">
       <created>1600607905827</created>
@@ -612,7 +604,14 @@
       <option name="project" value="LOCAL" />
       <updated>1605712837768</updated>
     </task>
-    <option name="localTasksCounter" value="65" />
+    <task id="LOCAL-00065" summary="bezig H1205.java&#10;H1206 is wel af">
+      <created>1605766292884</created>
+      <option name="number" value="00065" />
+      <option name="presentableId" value="LOCAL-00065" />
+      <option name="project" value="LOCAL" />
+      <updated>1605766292885</updated>
+    </task>
+    <option name="localTasksCounter" value="66" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -631,7 +630,6 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="heb paar kleine dingen veranderd." />
     <MESSAGE value="h10.5 af" />
     <MESSAGE value="h10 af" />
     <MESSAGE value="bezig H11_1" />
@@ -656,7 +654,8 @@
     <MESSAGE value="H1203 af en bezig met H1204" />
     <MESSAGE value="H1204 af!!" />
     <MESSAGE value="bezig H1205.java" />
-    <option name="LAST_COMMIT_MESSAGE" value="bezig H1205.java" />
+    <MESSAGE value="bezig H1205.java&#10;H1206 is wel af" />
+    <option name="LAST_COMMIT_MESSAGE" value="bezig H1205.java&#10;H1206 is wel af" />
   </component>
   <component name="WindowStateProjectService">
     <state x="436" y="0" key="#Code_Folding" timestamp="1599813355102">
