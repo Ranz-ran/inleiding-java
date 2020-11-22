@@ -22,8 +22,9 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="67526c09-8273-46e9-a0be-c82dfc6ae11f" name="Default Changelist" comment="Alles zijn af">
+    <list default="true" id="67526c09-8273-46e9-a0be-c82dfc6ae11f" name="Default Changelist" comment="Bezig H13">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/h13/H1301.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/h13/H1301.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -86,7 +87,7 @@
       <recent name="C:\Users\ritak\Desktop\Javaproject\inleiding-java\src\h03" />
     </key>
   </component>
-  <component name="RunManager" selected="Applet.H1205">
+  <component name="RunManager" selected="Applet.H1301">
     <configuration name="Fpointone" type="Applet" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="h04.Fpointone" />
       <module name="inleiding-java" />
@@ -115,15 +116,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="P12" type="Applet" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="h12.P12" />
+    <configuration name="H1301" type="Applet" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="h13.H1301" />
       <module name="inleiding-java" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="test" type="Applet" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="h12.test" />
+    <configuration name="P12" type="Applet" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="h12.P12" />
       <module name="inleiding-java" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -142,22 +143,33 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <list>
       <item itemvalue="Applet.Fpointone" />
       <item itemvalue="Applet.H1204" />
-      <item itemvalue="Applet.test" />
       <item itemvalue="Applet.H1205" />
       <item itemvalue="Applet.H1206" />
       <item itemvalue="Applet.P12" />
       <item itemvalue="Application.HalloRocDev" />
+      <item itemvalue="Applet.H1301" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Applet.H1301" />
         <item itemvalue="Applet.H1205" />
         <item itemvalue="Applet.P12" />
         <item itemvalue="Applet.H1206" />
         <item itemvalue="Applet.H1204" />
-        <item itemvalue="Applet.test" />
       </list>
     </recent_temporary>
   </component>
@@ -269,14 +281,10 @@
       <workItem from="1605766006201" duration="9218000" />
       <workItem from="1605784990948" duration="5643000" />
       <workItem from="1605801436773" duration="2630000" />
-      <workItem from="1605882138942" duration="1797000" />
-    </task>
-    <task id="LOCAL-00022" summary="Bezige met h10">
-      <created>1601045308471</created>
-      <option name="number" value="00022" />
-      <option name="presentableId" value="LOCAL-00022" />
-      <option name="project" value="LOCAL" />
-      <updated>1601045308471</updated>
+      <workItem from="1605882138942" duration="2152000" />
+      <workItem from="1605977000092" duration="598000" />
+      <workItem from="1605986586183" duration="2077000" />
+      <workItem from="1606046000583" duration="3695000" />
     </task>
     <task id="LOCAL-00023" summary="Verandering h08 OpenAvond.java">
       <created>1601299818794</created>
@@ -614,7 +622,14 @@
       <option name="project" value="LOCAL" />
       <updated>1605823026994</updated>
     </task>
-    <option name="localTasksCounter" value="71" />
+    <task id="LOCAL-00071" summary="Bezig H13">
+      <created>1605885157094</created>
+      <option name="number" value="00071" />
+      <option name="presentableId" value="LOCAL-00071" />
+      <option name="project" value="LOCAL" />
+      <updated>1605885157095</updated>
+    </task>
+    <option name="localTasksCounter" value="72" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -633,7 +648,6 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="bezig H11_1" />
     <MESSAGE value="2020-10-08 les" />
     <MESSAGE value="h11_1 af" />
     <MESSAGE value="h11_2 af" />
@@ -658,7 +672,8 @@
     <MESSAGE value="bezig H1205.java&#10;H1206 is wel af" />
     <MESSAGE value="Alles zijn af behalve Pratijk" />
     <MESSAGE value="Alles zijn af" />
-    <option name="LAST_COMMIT_MESSAGE" value="Alles zijn af" />
+    <MESSAGE value="Bezig H13" />
+    <option name="LAST_COMMIT_MESSAGE" value="Bezig H13" />
   </component>
   <component name="WindowStateProjectService">
     <state x="436" y="0" key="#Code_Folding" timestamp="1599813355102">
@@ -745,10 +760,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="530" y="277" key="VCS.ChangelistChooser/0.0.1366.728@0.0.1366.728" timestamp="1601634988896" />
-    <state x="275" y="96" key="Vcs.Push.Dialog.v2" timestamp="1605823033583">
+    <state x="275" y="96" key="Vcs.Push.Dialog.v2" timestamp="1605885264091">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="275" y="96" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1605823033583" />
+    <state x="275" y="96" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1605885264091" />
     <state x="500" y="277" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1601589984233">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
