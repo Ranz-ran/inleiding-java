@@ -17,17 +17,19 @@ public class H1302 extends Applet {
 
     @Override
     public void paint(Graphics g) {
-        g.setColor(rood);
-        muur(g,0,0);
 
+        for(int i=0; i>10; i++) {
+            g.setColor(rood);
+            muur(g, 0, 0);
+        }
 
     }
 
     public void muur (Graphics g,int x1,int y1){
 
 
-
-                g.fillRect(0, 0, 50, 30);
-
+        for(int i = 0; i>10; i++) {
+            g.fillRect(0, 0, 50, 30);
+        }
     }
 }
