@@ -19,12 +19,18 @@
         <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
       </path>
     </expand>
-    <select />
+    <select>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="BRANCH:master" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="67526c09-8273-46e9-a0be-c82dfc6ae11f" name="Default Changelist" comment="H13.1 af">
+    <list default="true" id="67526c09-8273-46e9-a0be-c82dfc6ae11f" name="Default Changelist" comment="Bezig H1302.java">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/h13/H1302.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/h13/H1302.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/h13/test.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -76,25 +82,18 @@
     <property name="settings.editor.selected.configurable" value="preferences.toDoOptions" />
   </component>
   <component name="RecentsManager">
-    <key name="CreateClassDialog.RecentsKey">
-      <recent name="h11" />
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\ritak\Desktop\Javaproject\inleiding-java\src\h03" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="h05" />
       <recent name="h04" />
     </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\ritak\Desktop\Javaproject\inleiding-java\src\h03" />
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="h11" />
     </key>
   </component>
-  <component name="RunManager" selected="Applet.H1302">
-    <configuration name="Dice" type="Applet" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="h04.Dice" />
-      <module name="inleiding-java" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Applet.test">
     <configuration name="Fpointone" type="Applet" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="h04.Fpointone" />
       <module name="inleiding-java" />
@@ -130,6 +129,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="test" type="Applet" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="h13.test" />
+      <module name="inleiding-java" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="HalloRocDev" type="Application" factoryName="Application" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="h01.HalloRocDev" />
       <module name="inleiding-java" />
@@ -143,33 +149,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
-      <option name="arquillianRunConfiguration">
-        <value>
-          <option name="containerStateName" value="" />
-        </value>
-      </option>
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <list>
       <item itemvalue="Applet.Fpointone" />
       <item itemvalue="Applet.H1302" />
-      <item itemvalue="Applet.Dice" />
       <item itemvalue="Applet.Fpointtwo" />
       <item itemvalue="Applet.Stoplicht" />
       <item itemvalue="Applet.Pratijkopdr" />
+      <item itemvalue="Applet.test" />
       <item itemvalue="Application.HalloRocDev" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Applet.test" />
         <item itemvalue="Applet.H1302" />
         <item itemvalue="Applet.Pratijkopdr" />
         <item itemvalue="Applet.Stoplicht" />
         <item itemvalue="Applet.Fpointtwo" />
-        <item itemvalue="Applet.Dice" />
       </list>
     </recent_temporary>
   </component>
@@ -288,21 +283,9 @@
       <workItem from="1606122125196" duration="1446000" />
       <workItem from="1606155715098" duration="1621000" />
       <workItem from="1606209221711" duration="2544000" />
-      <workItem from="1606239423959" duration="3648000" />
-    </task>
-    <task id="LOCAL-00025" summary="h10.2af">
-      <created>1601478148571</created>
-      <option name="number" value="00025" />
-      <option name="presentableId" value="LOCAL-00025" />
-      <option name="project" value="LOCAL" />
-      <updated>1601478148571</updated>
-    </task>
-    <task id="LOCAL-00026" summary="h10.3af">
-      <created>1601541202470</created>
-      <option name="number" value="00026" />
-      <option name="presentableId" value="LOCAL-00026" />
-      <option name="project" value="LOCAL" />
-      <updated>1601541202470</updated>
+      <workItem from="1606239423959" duration="3826000" />
+      <workItem from="1606369291819" duration="2558000" />
+      <workItem from="1606371906043" duration="1033000" />
     </task>
     <task id="LOCAL-00027" summary="h10.4af">
       <created>1601883750540</created>
@@ -633,7 +616,21 @@
       <option name="project" value="LOCAL" />
       <updated>1606225518943</updated>
     </task>
-    <option name="localTasksCounter" value="74" />
+    <task id="LOCAL-00074" summary="Bezig H1302.java">
+      <created>1606254301308</created>
+      <option name="number" value="00074" />
+      <option name="presentableId" value="LOCAL-00074" />
+      <option name="project" value="LOCAL" />
+      <updated>1606254301308</updated>
+    </task>
+    <task id="LOCAL-00075" summary="Bezig H1302.java">
+      <created>1606371671346</created>
+      <option name="number" value="00075" />
+      <option name="presentableId" value="LOCAL-00075" />
+      <option name="project" value="LOCAL" />
+      <updated>1606371671346</updated>
+    </task>
+    <option name="localTasksCounter" value="76" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -644,7 +641,19 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="master" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
           </value>
         </entry>
       </map>
@@ -652,7 +661,6 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="h11_1 af" />
     <MESSAGE value="h11_2 af" />
     <MESSAGE value="bezig h11_3" />
     <MESSAGE value="h11.3 af" />
@@ -677,7 +685,8 @@
     <MESSAGE value="Alles zijn af" />
     <MESSAGE value="Bezig H13" />
     <MESSAGE value="H13.1 af" />
-    <option name="LAST_COMMIT_MESSAGE" value="H13.1 af" />
+    <MESSAGE value="Bezig H1302.java" />
+    <option name="LAST_COMMIT_MESSAGE" value="Bezig H1302.java" />
   </component>
   <component name="WindowStateProjectService">
     <state x="436" y="0" key="#Code_Folding" timestamp="1599813355102">
@@ -704,6 +713,14 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="488" y="70" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728@0.0.1366.728" timestamp="1605777202362" />
+    <state x="363" y="99" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1606371647211">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="363" y="99" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1366.728@0.0.1366.728" timestamp="1606371647211" />
+    <state x="466" y="258" width="433" height="218" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1606370029740">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="466" y="258" width="433" height="218" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1366.728@0.0.1366.728" timestamp="1606370029740" />
     <state x="324" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1603640461868">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -720,22 +737,22 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="463" y="118" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1600070485166" />
-    <state width="1323" height="114" key="GridCell.Tab.0.bottom" timestamp="1606168718206">
+    <state width="1323" height="114" key="GridCell.Tab.0.bottom" timestamp="1606371871985">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="114" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1606168718206" />
-    <state width="1323" height="114" key="GridCell.Tab.0.center" timestamp="1606168718204">
+    <state width="1323" height="114" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1606371871985" />
+    <state width="1323" height="114" key="GridCell.Tab.0.center" timestamp="1606371871984">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="114" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1606168718204" />
-    <state width="1323" height="114" key="GridCell.Tab.0.left" timestamp="1606168718204">
+    <state width="1323" height="114" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1606371871984" />
+    <state width="1323" height="114" key="GridCell.Tab.0.left" timestamp="1606371871983">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="114" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1606168718204" />
-    <state width="1323" height="114" key="GridCell.Tab.0.right" timestamp="1606168718205">
+    <state width="1323" height="114" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1606371871983" />
+    <state width="1323" height="114" key="GridCell.Tab.0.right" timestamp="1606371871984">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="114" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1606168718205" />
+    <state width="1323" height="114" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1606371871984" />
     <state width="1323" height="223" key="GridCell.Tab.1.bottom" timestamp="1605179040044">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -752,22 +769,26 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state width="1323" height="223" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1605179040044" />
-    <state x="426" y="66" key="RollbackChangesDialog" timestamp="1599672761982">
+    <state x="426" y="66" key="RollbackChangesDialog" timestamp="1606371929834">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="426" y="66" key="RollbackChangesDialog/0.0.1366.728@0.0.1366.728" timestamp="1599672761982" />
+    <state x="426" y="66" key="RollbackChangesDialog/0.0.1366.728@0.0.1366.728" timestamp="1606371929834" />
     <state x="184" y="0" key="SettingsEditor" timestamp="1601739519653">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="184" y="0" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1601739519653" />
-    <state x="530" y="277" key="VCS.ChangelistChooser" timestamp="1601634988896">
+    <state x="530" y="277" key="VCS.ChangelistChooser" timestamp="1606371733438">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="530" y="277" key="VCS.ChangelistChooser/0.0.1366.728@0.0.1366.728" timestamp="1601634988896" />
-    <state x="275" y="96" key="Vcs.Push.Dialog.v2" timestamp="1606225521086">
+    <state x="530" y="277" key="VCS.ChangelistChooser/0.0.1366.728@0.0.1366.728" timestamp="1606371733438" />
+    <state x="569" y="278" key="VCS.EditChangelistDialog" timestamp="1606371720110">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="275" y="96" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1606225521086" />
+    <state x="569" y="278" key="VCS.EditChangelistDialog/0.0.1366.728@0.0.1366.728" timestamp="1606371720110" />
+    <state x="275" y="96" key="Vcs.Push.Dialog.v2" timestamp="1606371674461">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="275" y="96" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1606371674461" />
     <state x="500" y="277" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1601589984233">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
