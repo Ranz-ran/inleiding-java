@@ -30,7 +30,7 @@
   <component name="ChangeListManager">
     <list default="true" id="67526c09-8273-46e9-a0be-c82dfc6ae11f" name="Default Changelist" comment="Bezig H1302.java">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/h13/test.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/h13/H1302.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/h13/H1302.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -93,7 +93,7 @@
       <recent name="h11" />
     </key>
   </component>
-  <component name="RunManager" selected="Applet.test">
+  <component name="RunManager" selected="Applet.H1302">
     <configuration name="Fpointone" type="Applet" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="h04.Fpointone" />
       <module name="inleiding-java" />
@@ -149,6 +149,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <list>
       <item itemvalue="Applet.Fpointone" />
       <item itemvalue="Applet.H1302" />
@@ -160,8 +173,8 @@
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Applet.test" />
         <item itemvalue="Applet.H1302" />
+        <item itemvalue="Applet.test" />
         <item itemvalue="Applet.Pratijkopdr" />
         <item itemvalue="Applet.Stoplicht" />
         <item itemvalue="Applet.Fpointtwo" />
@@ -285,14 +298,9 @@
       <workItem from="1606209221711" duration="2544000" />
       <workItem from="1606239423959" duration="3826000" />
       <workItem from="1606369291819" duration="2558000" />
-      <workItem from="1606371906043" duration="1033000" />
-    </task>
-    <task id="LOCAL-00027" summary="h10.4af">
-      <created>1601883750540</created>
-      <option name="number" value="00027" />
-      <option name="presentableId" value="LOCAL-00027" />
-      <option name="project" value="LOCAL" />
-      <updated>1601883750540</updated>
+      <workItem from="1606371906043" duration="2703000" />
+      <workItem from="1606380310005" duration="1881000" />
+      <workItem from="1606389719918" duration="2556000" />
     </task>
     <task id="LOCAL-00028" summary="heb paar kleine dingen veranderd.">
       <created>1601883790292</created>
@@ -630,7 +638,14 @@
       <option name="project" value="LOCAL" />
       <updated>1606371671346</updated>
     </task>
-    <option name="localTasksCounter" value="76" />
+    <task id="LOCAL-00076" summary="Bezig H1302.java">
+      <created>1606373276084</created>
+      <option name="number" value="00076" />
+      <option name="presentableId" value="LOCAL-00076" />
+      <option name="project" value="LOCAL" />
+      <updated>1606373276086</updated>
+    </task>
+    <option name="localTasksCounter" value="77" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -737,22 +752,22 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="463" y="118" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1600070485166" />
-    <state width="1323" height="114" key="GridCell.Tab.0.bottom" timestamp="1606371871985">
+    <state width="1323" height="114" key="GridCell.Tab.0.bottom" timestamp="1606395932016">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="114" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1606371871985" />
-    <state width="1323" height="114" key="GridCell.Tab.0.center" timestamp="1606371871984">
+    <state width="1323" height="114" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1606395932016" />
+    <state width="1323" height="114" key="GridCell.Tab.0.center" timestamp="1606395932016">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="114" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1606371871984" />
-    <state width="1323" height="114" key="GridCell.Tab.0.left" timestamp="1606371871983">
+    <state width="1323" height="114" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1606395932016" />
+    <state width="1323" height="114" key="GridCell.Tab.0.left" timestamp="1606395932015">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="114" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1606371871983" />
-    <state width="1323" height="114" key="GridCell.Tab.0.right" timestamp="1606371871984">
+    <state width="1323" height="114" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1606395932015" />
+    <state width="1323" height="114" key="GridCell.Tab.0.right" timestamp="1606395932016">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="114" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1606371871984" />
+    <state width="1323" height="114" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1606395932016" />
     <state width="1323" height="223" key="GridCell.Tab.1.bottom" timestamp="1605179040044">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -793,6 +808,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="500" y="277" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1366.728@0.0.1366.728" timestamp="1601589984233" />
+    <state x="457" y="258" key="git4idea.ui.GitResetDialog" timestamp="1606373235521">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="457" y="258" key="git4idea.ui.GitResetDialog/0.0.1366.728@0.0.1366.728" timestamp="1606373235521" />
     <state x="339" y="162" key="run.anything.popup" timestamp="1603023958880">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
