@@ -44,7 +44,7 @@ public class P13 extends Applet {
             yRect += 150;
             xRect = 20;
             yOval += 150;
-            xOval = 0;
+            xOval = 1;
         }
     }
 }
