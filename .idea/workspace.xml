@@ -28,9 +28,9 @@
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="67526c09-8273-46e9-a0be-c82dfc6ae11f" name="Default Changelist" comment="bezig H1303.java &amp; P13.java">
+    <list default="true" id="67526c09-8273-46e9-a0be-c82dfc6ae11f" name="Default Changelist" comment="bezig H1303 &amp; P13">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/h13/H1303.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/h13/H1303.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/h13/P13.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/h13/P13.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -93,16 +93,9 @@
       <recent name="h11" />
     </key>
   </component>
-  <component name="RunManager" selected="Applet.H1303">
+  <component name="RunManager" selected="Applet.P13">
     <configuration name="Fpointone" type="Applet" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="h04.Fpointone" />
-      <module name="inleiding-java" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="H1302" type="Applet" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="h13.H1302" />
       <module name="inleiding-java" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -117,6 +110,13 @@
     </configuration>
     <configuration name="H13_praktijk" type="Applet" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="H13.H13_praktijk" />
+      <module name="inleiding-java" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="P13" type="Applet" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="h13.P13" />
       <module name="inleiding-java" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -149,35 +149,33 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
           <option name="containerStateName" value="" />
         </value>
       </option>
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <list>
       <item itemvalue="Applet.Fpointone" />
-      <item itemvalue="Applet.H1302" />
       <item itemvalue="Applet.test" />
       <item itemvalue="Applet.H1303" />
       <item itemvalue="Applet.test (1)" />
-      <item itemvalue="Application.HalloRocDev" />
       <item itemvalue="Applet.H13_praktijk" />
+      <item itemvalue="Application.HalloRocDev" />
+      <item itemvalue="Applet.P13" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Applet.P13" />
         <item itemvalue="Applet.H1303" />
         <item itemvalue="Applet.H13_praktijk" />
         <item itemvalue="Applet.test" />
         <item itemvalue="Applet.test (1)" />
-        <item itemvalue="Applet.H1302" />
       </list>
     </recent_temporary>
   </component>
@@ -307,14 +305,8 @@
       <workItem from="1606647688083" duration="597000" />
       <workItem from="1606665804147" duration="1668000" />
       <workItem from="1606747817358" duration="15930000" />
-      <workItem from="1606809113608" duration="3144000" />
-    </task>
-    <task id="LOCAL-00030" summary="h10 af">
-      <created>1601905369350</created>
-      <option name="number" value="00030" />
-      <option name="presentableId" value="LOCAL-00030" />
-      <option name="project" value="LOCAL" />
-      <updated>1601905369351</updated>
+      <workItem from="1606809113608" duration="3890000" />
+      <workItem from="1606829859878" duration="3263000" />
     </task>
     <task id="LOCAL-00031" summary="bezig H11_1">
       <created>1602088099201</created>
@@ -652,7 +644,14 @@
       <option name="project" value="LOCAL" />
       <updated>1606809408460</updated>
     </task>
-    <option name="localTasksCounter" value="79" />
+    <task id="LOCAL-00079" summary="bezig H1303.java &amp; P13.java">
+      <created>1606816409147</created>
+      <option name="number" value="00079" />
+      <option name="presentableId" value="LOCAL-00079" />
+      <option name="project" value="LOCAL" />
+      <updated>1606816409147</updated>
+    </task>
+    <option name="localTasksCounter" value="80" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -759,22 +758,22 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="463" y="118" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1600070485166" />
-    <state width="1323" height="114" key="GridCell.Tab.0.bottom" timestamp="1606810480614">
+    <state width="1323" height="114" key="GridCell.Tab.0.bottom" timestamp="1606833607701">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="114" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1606810480614" />
-    <state width="1323" height="114" key="GridCell.Tab.0.center" timestamp="1606810480614">
+    <state width="1323" height="114" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1606833607701" />
+    <state width="1323" height="114" key="GridCell.Tab.0.center" timestamp="1606833607701">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="114" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1606810480614" />
-    <state width="1323" height="114" key="GridCell.Tab.0.left" timestamp="1606810480613">
+    <state width="1323" height="114" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1606833607701" />
+    <state width="1323" height="114" key="GridCell.Tab.0.left" timestamp="1606833607701">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="114" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1606810480613" />
-    <state width="1323" height="114" key="GridCell.Tab.0.right" timestamp="1606810480614">
+    <state width="1323" height="114" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1606833607701" />
+    <state width="1323" height="114" key="GridCell.Tab.0.right" timestamp="1606833607701">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="114" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1606810480614" />
+    <state width="1323" height="114" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1606833607701" />
     <state width="1323" height="223" key="GridCell.Tab.1.bottom" timestamp="1605179040044">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
