@@ -28,9 +28,7 @@
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="67526c09-8273-46e9-a0be-c82dfc6ae11f" name="Default Changelist" comment="bezig H1303 &amp; P13">
-      <change beforePath="$PROJECT_DIR$/src/h13/P13.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/h13/P13.java" afterDir="false" />
-    </list>
+    <list default="true" id="67526c09-8273-46e9-a0be-c82dfc6ae11f" name="Default Changelist" comment=" H1303 &amp; P13 af" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -305,14 +303,7 @@
       <workItem from="1606665804147" duration="1668000" />
       <workItem from="1606747817358" duration="15930000" />
       <workItem from="1606809113608" duration="3890000" />
-      <workItem from="1606829859878" duration="3596000" />
-    </task>
-    <task id="LOCAL-00032" summary="2020-10-08 les">
-      <created>1602158854001</created>
-      <option name="number" value="00032" />
-      <option name="presentableId" value="LOCAL-00032" />
-      <option name="project" value="LOCAL" />
-      <updated>1602158854001</updated>
+      <workItem from="1606829859878" duration="4260000" />
     </task>
     <task id="LOCAL-00033" summary="h11_1 af">
       <created>1602493207005</created>
@@ -650,7 +641,14 @@
       <option name="project" value="LOCAL" />
       <updated>1606834082722</updated>
     </task>
-    <option name="localTasksCounter" value="81" />
+    <task id="LOCAL-00081" summary=" H1303 &amp; P13 af">
+      <created>1606834132324</created>
+      <option name="number" value="00081" />
+      <option name="presentableId" value="LOCAL-00081" />
+      <option name="project" value="LOCAL" />
+      <updated>1606834132324</updated>
+    </task>
+    <option name="localTasksCounter" value="82" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -681,7 +679,6 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="h11.4 af" />
     <MESSAGE value="h1105 af" />
     <MESSAGE value="h1106 af" />
     <MESSAGE value="h1107 af" />
@@ -706,7 +703,8 @@
     <MESSAGE value=" H1302.java af" />
     <MESSAGE value="bezig H1303.java &amp; P13.java" />
     <MESSAGE value="bezig H1303 &amp; P13" />
-    <option name="LAST_COMMIT_MESSAGE" value="bezig H1303 &amp; P13" />
+    <MESSAGE value=" H1303 &amp; P13 af" />
+    <option name="LAST_COMMIT_MESSAGE" value=" H1303 &amp; P13 af" />
   </component>
   <component name="WindowStateProjectService">
     <state x="436" y="0" key="#Code_Folding" timestamp="1599813355102">
@@ -757,22 +755,22 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="463" y="118" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1600070485166" />
-    <state width="1323" height="114" key="GridCell.Tab.0.bottom" timestamp="1606834058857">
+    <state width="1323" height="114" key="GridCell.Tab.0.bottom" timestamp="1606834116113">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="114" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1606834058857" />
-    <state width="1323" height="114" key="GridCell.Tab.0.center" timestamp="1606834058856">
+    <state width="1323" height="114" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1606834116113" />
+    <state width="1323" height="114" key="GridCell.Tab.0.center" timestamp="1606834116113">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="114" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1606834058856" />
-    <state width="1323" height="114" key="GridCell.Tab.0.left" timestamp="1606834058856">
+    <state width="1323" height="114" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1606834116113" />
+    <state width="1323" height="114" key="GridCell.Tab.0.left" timestamp="1606834116113">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="114" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1606834058856" />
-    <state width="1323" height="114" key="GridCell.Tab.0.right" timestamp="1606834058856">
+    <state width="1323" height="114" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1606834116113" />
+    <state width="1323" height="114" key="GridCell.Tab.0.right" timestamp="1606834116113">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="114" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1606834058856" />
+    <state width="1323" height="114" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1606834116113" />
     <state width="1323" height="223" key="GridCell.Tab.1.bottom" timestamp="1605179040044">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -805,10 +803,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="569" y="278" key="VCS.EditChangelistDialog/0.0.1366.728@0.0.1366.728" timestamp="1606371720110" />
-    <state x="275" y="96" key="Vcs.Push.Dialog.v2" timestamp="1606834085087">
+    <state x="275" y="96" key="Vcs.Push.Dialog.v2" timestamp="1606834171931">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="275" y="96" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1606834085087" />
+    <state x="275" y="96" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1606834171931" />
     <state x="500" y="277" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1606809360945">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
