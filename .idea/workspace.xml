@@ -28,10 +28,9 @@
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="67526c09-8273-46e9-a0be-c82dfc6ae11f" name="Default Changelist" comment=" H1302.java af">
+    <list default="true" id="67526c09-8273-46e9-a0be-c82dfc6ae11f" name="Default Changelist" comment="bezig H1303.java &amp; P13.java">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/h13/H1303.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/h13/H1303.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/h13/P13.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/h13/P13.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -94,7 +93,7 @@
       <recent name="h11" />
     </key>
   </component>
-  <component name="RunManager" selected="Applet.H13_praktijk">
+  <component name="RunManager" selected="Applet.H1303">
     <configuration name="Fpointone" type="Applet" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="h04.Fpointone" />
       <module name="inleiding-java" />
@@ -174,8 +173,8 @@
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Applet.H13_praktijk" />
         <item itemvalue="Applet.H1303" />
+        <item itemvalue="Applet.H13_praktijk" />
         <item itemvalue="Applet.test" />
         <item itemvalue="Applet.test (1)" />
         <item itemvalue="Applet.H1302" />
@@ -308,13 +307,7 @@
       <workItem from="1606647688083" duration="597000" />
       <workItem from="1606665804147" duration="1668000" />
       <workItem from="1606747817358" duration="15930000" />
-    </task>
-    <task id="LOCAL-00029" summary="h10.5 af">
-      <created>1601885439120</created>
-      <option name="number" value="00029" />
-      <option name="presentableId" value="LOCAL-00029" />
-      <option name="project" value="LOCAL" />
-      <updated>1601885439121</updated>
+      <workItem from="1606809113608" duration="3144000" />
     </task>
     <task id="LOCAL-00030" summary="h10 af">
       <created>1601905369350</created>
@@ -652,7 +645,14 @@
       <option name="project" value="LOCAL" />
       <updated>1606396224912</updated>
     </task>
-    <option name="localTasksCounter" value="78" />
+    <task id="LOCAL-00078" summary="bezig H1303.java &amp; P13.java">
+      <created>1606809408457</created>
+      <option name="number" value="00078" />
+      <option name="presentableId" value="LOCAL-00078" />
+      <option name="project" value="LOCAL" />
+      <updated>1606809408460</updated>
+    </task>
+    <option name="localTasksCounter" value="79" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -683,7 +683,6 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="bezig h11_3" />
     <MESSAGE value="h11.3 af" />
     <MESSAGE value="h11.4 af" />
     <MESSAGE value="h1105 af" />
@@ -708,7 +707,8 @@
     <MESSAGE value="H13.1 af" />
     <MESSAGE value="Bezig H1302.java" />
     <MESSAGE value=" H1302.java af" />
-    <option name="LAST_COMMIT_MESSAGE" value=" H1302.java af" />
+    <MESSAGE value="bezig H1303.java &amp; P13.java" />
+    <option name="LAST_COMMIT_MESSAGE" value="bezig H1303.java &amp; P13.java" />
   </component>
   <component name="WindowStateProjectService">
     <state x="436" y="0" key="#Code_Folding" timestamp="1599813355102">
@@ -759,22 +759,22 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="463" y="118" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1600070485166" />
-    <state width="1323" height="114" key="GridCell.Tab.0.bottom" timestamp="1606774854469">
+    <state width="1323" height="114" key="GridCell.Tab.0.bottom" timestamp="1606810480614">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="114" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1606774854469" />
-    <state width="1323" height="114" key="GridCell.Tab.0.center" timestamp="1606774854468">
+    <state width="1323" height="114" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1606810480614" />
+    <state width="1323" height="114" key="GridCell.Tab.0.center" timestamp="1606810480614">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="114" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1606774854468" />
-    <state width="1323" height="114" key="GridCell.Tab.0.left" timestamp="1606774854467">
+    <state width="1323" height="114" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1606810480614" />
+    <state width="1323" height="114" key="GridCell.Tab.0.left" timestamp="1606810480613">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="114" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1606774854467" />
-    <state width="1323" height="114" key="GridCell.Tab.0.right" timestamp="1606774854469">
+    <state width="1323" height="114" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1606810480613" />
+    <state width="1323" height="114" key="GridCell.Tab.0.right" timestamp="1606810480614">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="114" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1606774854469" />
+    <state width="1323" height="114" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1606810480614" />
     <state width="1323" height="223" key="GridCell.Tab.1.bottom" timestamp="1605179040044">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -807,14 +807,14 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="569" y="278" key="VCS.EditChangelistDialog/0.0.1366.728@0.0.1366.728" timestamp="1606371720110" />
-    <state x="275" y="96" key="Vcs.Push.Dialog.v2" timestamp="1606396227619">
+    <state x="275" y="96" key="Vcs.Push.Dialog.v2" timestamp="1606809476933">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="275" y="96" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1606396227619" />
-    <state x="500" y="277" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1601589984233">
+    <state x="275" y="96" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1606809476933" />
+    <state x="500" y="277" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1606809360945">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="500" y="277" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1366.728@0.0.1366.728" timestamp="1601589984233" />
+    <state x="500" y="277" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1366.728@0.0.1366.728" timestamp="1606809360945" />
     <state x="457" y="258" key="git4idea.ui.GitResetDialog" timestamp="1606373235521">
       <screen x="0" y="0" width="1366" height="728" />
     </state>

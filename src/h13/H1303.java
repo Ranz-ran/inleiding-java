@@ -18,34 +18,33 @@ public class H1303 extends Applet {
     @Override
     public void init() {
 
-        setSize(600,300);
+        setSize(1065,600);
 
         rood = new Color(165, 30, 30);
         grijs = new Color(132, 124, 124);
 
         red = new Button("red");
         add(red);
-        //red.addActionListener(new Al());
+        red.addActionListener(new Al());
 
         gray = new Button("gray");
         add(gray);
         red.addActionListener(new Al1());
+
+
     }
 
     @Override
     public void paint(Graphics g) {
+        red.setLocation(300,550);
+        gray.setLocation(600,550);
 
-        red.setLocation(100,270);
-        gray.setLocation(190,270);
-
-        if(click = true){
+        if(click && ! click2){
             muur(g,rood, 10, 10,50, 25);
-
-        }else if (click2 = true){
+        }
+        if (click2 && ! click){
             muurGroot(g, grijs, 10, 10, 50, 25);
         }
-
-
     }
 
     public void muur (Graphics g,Color muurkleur,int kolom,int rij, int w, int h){
@@ -77,13 +76,13 @@ public class H1303 extends Applet {
 
 
     class Al implements ActionListener{
-
         public void actionPerformed(ActionEvent e) {
             getGraphics().setColor(rood);
             System.out.println("test1");
 
             click = true;
             click2 = false;
+
             repaint();
         }
     }
